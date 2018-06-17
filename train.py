@@ -6,7 +6,7 @@ import numpy as np
 import keras.backend as K
 from keras.layers import Input, Lambda
 from keras.models import Model
-from keras.utils.training_utils import multi_gpu_model
+from keras.utils import multi_gpu_model
 from keras.optimizers import Adam
 
 from keras.callbacks import TensorBoard, ModelCheckpoint, ReduceLROnPlateau, EarlyStopping
