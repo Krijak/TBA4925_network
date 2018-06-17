@@ -4,6 +4,7 @@ Retrain the YOLO model for your own dataset.
 
 import numpy as np
 import keras.backend as K
+import tensorflow as tf
 from keras.layers import Input, Lambda, merge, concatenate
 from keras.models import Model
 from keras.utils import multi_gpu_model
@@ -31,7 +32,8 @@ def _main():
         model = create_tiny_model(input_shape, anchors, num_classes,
             freeze_body=2, weights_path='model_data/tiny_yolo_weights.h5')
     else:
-        model = create_model(input_shape, anchors, num_classes,
+        with tf.device('/cpu:0'):
+            model = create_model(input_shape, anchors, num_classes,
             freeze_body=2, weights_path='model_data/yolo_weights.h5') # make sure you know what you freeze
         model = multi_gpu_model(model, gpus=2)
 
