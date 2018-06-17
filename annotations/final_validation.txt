@@ -1,0 +1,833 @@
+/data/datasets/OIDV4extracted/Validation/e82ce6ab1fae5d21.jpg 177,281,358,924,2 343,288,526,909,2
+/data/datasets/OIDV4extracted/Validation/3512c1248ef0e67a.jpg 68,74,169,766,2
+/data/datasets/OIDV4extracted/Validation/75546abc3fa8e5d6.jpg 407,544,767,783,5
+/data/datasets/ImageNet/JPEGImages/n03717622_4432.JPEG 83,31,425,352,3
+/data/datasets/OIDV4extracted/Validation/ab9b1e4579fd710b.jpg 432,0,980,161,5
+/data/datasets/OIDV4extracted/Validation/c88a97816591c7db.jpg 93,128,981,693,2 0,0,54,36,5 610,0,828,33,5
+/data/datasets/OIDV4extracted/Validation/b79ac257d81fd58b.jpg 410,332,485,365,5 415,379,484,423,5 526,388,546,437,5 597,298,612,324,5 602,257,619,286,5 606,371,640,426,5 676,148,686,173,5 698,161,707,172,5 715,148,726,169,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_abvqqykpuvtxfbsy.jpg 0,0,179,69,5 0,56,54,178,5
+/data/datasets/OIDV4extracted/Validation/2242a8f866a6c2b4.jpg 604,345,671,508,2 533,292,1013,487,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ahylauorbzsgopft.jpg 1047,1197,1158,1593,5 1064,507,1181,969,5 17,830,195,1359,5 45,1637,189,2094,5 1063,1771,1151,2041,5 867,1883,974,2172,5 629,2018,746,2330,5 871,624,979,1025,5 340,0,489,443,5
+/data/datasets/OIDV4extracted/Validation/7d3c294469365c81.jpg 113,266,244,757,2
+/data/datasets/OIDV4extracted/Validation/4d96bf4b3d4f7722.jpg 29,0,229,183,5 321,0,468,151,5 324,0,447,162,5
+/data/datasets/ImageNet/JPEGImages/n06794110_2771.JPEG 13,46,499,132,4
+/data/datasets/OIDV4extracted/Validation/2923012e4f856a0e.jpg 487,38,819,703,5
+/data/datasets/OIDV4extracted/Validation/724126b1628fbe06.jpg 530,135,773,574,2
+/data/datasets/OIDV4extracted/Validation/e5c8d21e5260fdee.jpg 440,173,507,706,2 683,142,868,767,2
+/data/datasets/OIDV4extracted/Validation/52dfe433ed70973c.jpg 155,347,213,451,5 177,176,219,240,5 483,346,554,440,5 807,166,848,241,5 812,176,852,237,5 816,344,878,455,5
+/data/datasets/ImageNet/JPEGImages/n03717622_3105.JPEG 91,32,431,360,3
+/data/datasets/OIDV4extracted/Validation/cfa5389b9eeba8f1.jpg 363,88,608,962,2
+/data/datasets/OIDV4extracted/Validation/5476ddec2a1cf48e.jpg 81,167,573,740,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_avysypeunnnzpack.jpg 218,105,259,172,5
+/data/datasets/ImageNet/JPEGImages/n03891251_1660.JPEG 94,16,398,328,0
+/data/datasets/OIDV4extracted/Validation/c49e5114a349e7f3.jpg 966,0,1023,677,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ammdtdalpqzurktj.jpg 0,0,57,383,2
+/data/datasets/OIDV4extracted/Validation/757907957c2118c8.jpg 318,175,399,551,2 625,179,706,547,2
+/data/datasets/OIDV4extracted/Validation/6c93f2de6b0556f0.jpg 0,0,147,227,5 337,0,472,261,5 657,0,766,266,5
+/data/datasets/ImageNet/JPEGImages/n03891251_6196.JPEG 29,10,418,388,0
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_alwdwzraxihhysqu.jpg 225,2,257,120,5 167,25,206,73,5
+/data/datasets/OIDV4extracted/Validation/ce1a04fbc5096c01.jpg 189,226,543,1010,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_atmkfjbrxgqxklnn.jpg 1815,932,2049,1598,2
+/data/datasets/OIDV4extracted/Validation/24a0a01fcc6dd169.jpg 145,109,354,406,5 147,0,353,51,5 421,0,544,52,5 508,275,608,334,5 645,274,743,332,5 664,0,905,277,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_agaaccveiqqeuavq.jpg 35,44,104,124,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_apgxqdhcdstotmvk.jpg 447,132,494,187,5 366,135,400,178,5
+/data/datasets/ImageNet/JPEGImages/n06794110_74.JPEG 160,118,432,241,4 153,239,283,332,4 76,222,112,332,4
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_adhobmnpviigdxtf.jpg 200,52,328,241,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bbyhqmbovythxzln.jpg 3302,0,3637,1198,5
+/data/datasets/OIDV4extracted/Validation/293d859331b7f36d.jpg 609,139,866,394,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aqtxvowttsczecig.jpg 553,73,622,351,2
+/data/datasets/ImageNet/JPEGImages/n03717622_4457.JPEG 8,40,359,380,3
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_apunphspmgcrdszf.jpg 1951,787,2255,1593,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_dpddyzgjkjqhqjgq.jpg 56,84,110,227,5 121,94,174,210,5 183,102,223,187,5
+/data/datasets/OIDV4extracted/Validation/140e0627fe51d0f8.jpg 476,119,690,571,2 0,55,87,151,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aulrvovinthkguqg.jpg 882,317,1206,1480,2
+/data/datasets/OIDV4extracted/Validation/c11dad6157cd4450.jpg 758,79,875,246,5
+/data/datasets/OIDV4extracted/Validation/b1a30c5d499d3030.jpg 167,1,273,71,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_apysooxylzrxtnku.jpg 43,77,475,224,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aacxnjdggodnbtyn.jpg 2,220,112,344,0 223,204,349,349,0
+/data/datasets/OIDV4extracted/Validation/e3dfaf8e844654f4.jpg 0,196,1023,477,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ahxwucrovvqlcjtp.jpg 255,38,292,185,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_axvegajofsyvntuq.jpg 91,79,126,190,2
+/data/datasets/OIDV4extracted/Validation/3aae77081cc9bd3f.jpg 0,0,663,1022,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_akbzdcnrzbdubcjv.jpg 461,22,498,82,5
+/data/datasets/OIDV4extracted/Validation/edd36b00790e779e.jpg 205,31,527,950,2
+/data/datasets/OIDV4extracted/Validation/99572a40f5bddc95.jpg 0,185,166,351,5 290,189,801,331,5 893,186,1023,347,5
+/data/datasets/OIDV4extracted/Validation/644395d01b541528.jpg 0,99,66,369,4
+/data/datasets/OIDV4extracted/Validation/0a7ffd65766a4741.jpg 119,671,262,814,5 120,496,855,817,5 169,513,266,611,5 194,374,247,467,5 347,508,401,607,5 348,679,400,815,5 502,498,665,607,5 502,670,668,817,5 553,359,607,450,5 757,325,892,433,5 763,347,875,433,5 764,655,894,810,5 797,508,848,611,5
+/data/datasets/OIDV4extracted/Validation/7eb6688b2bc4fd3a.jpg 106,0,517,582,5
+/data/datasets/OIDV4extracted/Validation/c780bf71657c519c.jpg 0,0,105,438,5
+/data/datasets/OIDV4extracted/Validation/fbd2f16697562dd1.jpg 429,231,584,526,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_akmnlwbhgbqgaomh.jpg 79,0,134,179,5 651,2,700,169,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aidqojfeowvnvsyn.jpg 542,720,982,798,2
+/data/datasets/ImageNet/JPEGImages/n03891251_2899.JPEG 23,144,300,436,0
+/data/datasets/OIDV4extracted/Validation/d9771d6601a26947.jpg 0,29,1022,538,5
+/data/datasets/OIDV4extracted/Validation/87d79d0e40a63f76.jpg 83,0,1023,432,5
+/data/datasets/OIDV4extracted/Validation/4775ce4f3625482e.jpg 155,162,582,424,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_akmhkayuemtkmupl.jpg 0,0,39,129,5
+/data/datasets/OIDV4extracted/Validation/01d3fdb0f6383edb.jpg 0,0,890,684,4
+/data/datasets/ImageNet/JPEGImages/n06794110_2144.JPEG 72,246,212,323,4 126,272,211,363,4
+/data/datasets/OIDV4extracted/Validation/0ba133e5d7ae9ccd.jpg 79,348,287,682,2 407,407,613,681,2 717,409,923,682,2
+/data/datasets/OIDV4extracted/Validation/bd5eeb747b90ba85.jpg 56,0,463,467,5 493,362,610,484,5 515,6,610,346,5
+/data/datasets/OIDV4extracted/Validation/eeba4dab4ff7aa27.jpg 99,576,154,672,5 176,407,236,469,5 330,366,521,465,5 367,219,499,312,5 392,573,593,696,5 603,390,665,445,5 744,698,767,731,5
+/data/datasets/OIDV4extracted/Validation/4f5d4fcaddf54730.jpg 566,64,738,337,5 820,0,1023,391,5
+/data/datasets/OIDV4extracted/Validation/9ac7f1dd1a4e09d1.jpg 85,81,1022,701,5
+/data/datasets/ImageNet/JPEGImages/n03891251_1376.JPEG 67,155,456,374,0
+/data/datasets/ImageNet/JPEGImages/n03717622_7508.JPEG 128,50,402,271,3
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aaonpmmetrjngepy.jpg 207,0,255,95,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_avssmsicpvfsfwmy.jpg 573,169,631,269,5 633,167,692,272,5 525,173,573,263,5 505,87,699,170,5
+/data/datasets/OIDV4extracted/Validation/b19a0a482fb36565.jpg 172,364,228,420,5 216,116,468,257,5 261,574,324,649,5 422,331,473,405,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ardbxcoewmlhbiej.jpg 111,39,279,167,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aezpoezfuavxolzd.jpg 161,20,195,54,5 81,13,115,51,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_axgplrbmrduurexz.jpg 401,301,464,418,2
+/data/datasets/OIDV4extracted/Validation/b9eacb50f100ed10.jpg 229,278,355,396,5 906,0,1023,317,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aoeincalkmpwxudg.jpg 727,413,762,598,2
+/data/datasets/OIDV4extracted/Validation/57ea92b50b73dc3c.jpg 28,218,633,314,5
+/data/datasets/OIDV4extracted/Validation/b71159cebfb83e6e.jpg 162,81,1023,313,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_abphnoecgdsymked.jpg 97,93,141,146,5 140,91,172,146,5 272,109,317,146,5 361,121,393,153,5
+/data/datasets/ImageNet/JPEGImages/n03891251_8898.JPEG 64,105,425,281,0
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aebfvdlfslssqsvz.jpg 578,261,633,369,5 582,405,636,517,5 425,284,531,395,5 292,315,385,419,5 296,450,386,556,5 425,427,534,544,5 672,261,710,372,5 739,287,811,399,5 839,322,903,421,5 209,343,251,433,5 83,372,118,453,5 141,356,174,441,5 136,475,171,562,5 210,469,253,563,5 208,604,250,710,5 433,630,475,705,5 293,639,331,710,5 347,636,383,707,5
+/data/datasets/OIDV4extracted/Validation/45b59c6d1a959b8b.jpg 116,48,890,674,2 260,218,427,282,5 265,226,424,275,5 538,223,686,285,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_alxsfatxpgajixvc.jpg 5,117,46,255,2 169,111,221,255,2
+/data/datasets/OIDV4extracted/Validation/86558b4f454ee7e3.jpg 0,190,70,712,2 794,273,880,522,2 900,183,973,559,5
+/data/datasets/OIDV4extracted/Validation/f9d76673400715e9.jpg 12,299,288,1023,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aifucniyoampajha.jpg 65,146,257,333,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aaxfxfiinqkbfwfh.jpg 198,53,314,199,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aylsrmapddgoyiwe.jpg 306,54,576,361,5
+/data/datasets/ImageNet/JPEGImages/n06794110_1312.JPEG 62,68,212,111,4
+/data/datasets/OIDV4extracted/Validation/d7a6cc325ae04b7c.jpg 0,0,1022,225,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aiyupmxrconlysrl.jpg 46,0,158,156,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ahxnbemaydgslfcw.jpg 2,129,59,266,5 237,149,343,247,5 98,136,220,258,5
+/data/datasets/OIDV4extracted/Validation/d4d6e17af12234a8.jpg 0,0,163,818,2 328,0,687,818,2 810,185,1023,818,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bljzssvjevjdeoec.jpg 142,40,196,117,5 0,4,130,136,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_brqxlctdqhfuyanz.jpg 224,329,375,507,5 588,359,628,412,5 890,316,922,385,5 1046,305,1090,381,5
+/data/datasets/OIDV4extracted/Validation/bdc7901d8ce97811.jpg 84,191,133,274,5 85,323,124,392,5 87,126,124,148,5 172,314,223,390,5 174,211,212,277,5 180,149,204,165,5 254,228,292,277,5 256,329,274,394,5 260,159,286,178,5 312,314,333,385,5 647,207,693,325,5 786,186,832,309,5
+/data/datasets/ImageNet/JPEGImages/n06794110_889.JPEG 86,141,471,246,4
+/data/datasets/ImageNet/JPEGImages/n03891251_383.JPEG 130,209,375,310,0
+/data/datasets/ImageNet/JPEGImages/n03891251_957.JPEG 40,73,338,321,0
+
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aqrklzjmptrlsrlw.jpg 196,204,248,297,5 270,179,346,296,5 370,185,451,293,5 53,236,124,305,5
+/data/datasets/OIDV4extracted/Validation/ef06b701061b0838.jpg 0,2,549,1023,2 68,302,177,598,2 68,237,267,726,2
+/data/datasets/OIDV4extracted/Validation/b024368eccd34bfe.jpg 114,169,432,715,5 572,99,1023,715,5
+/data/datasets/OIDV4extracted/Validation/40e3252f39eee5d3.jpg 311,0,766,480,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aetezeeczzyolnrd.jpg 394,1,438,77,5
+/data/datasets/OIDV4extracted/Validation/3030fcc2b2c9e66c.jpg 834,164,911,460,5
+/data/datasets/OIDV4extracted/Validation/7ae56b9a673b49cb.jpg 276,269,355,507,5 290,525,350,616,5 321,694,350,736,5
+/data/datasets/ImageNet/JPEGImages/n03717622_4123.JPEG 0,1,499,332,3
+/data/datasets/OIDV4extracted/Validation/51ed77c19fe0c482.jpg 205,5,635,1006,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aeypbmtkopjzkkue.jpg 0,0,39,105,5
+/data/datasets/ImageNet/JPEGImages/n06794110_6195.JPEG 17,198,298,256,4
+/data/datasets/ImageNet/JPEGImages/n03717622_10006.JPEG 43,34,457,408,3
+/data/datasets/OIDV4extracted/Validation/d45ddbd7bdfcf3a1.jpg 288,214,570,1001,2
+/data/datasets/OIDV4extracted/Validation/8da3d7c3edb36065.jpg 0,0,571,1022,2
+/data/datasets/OIDV4extracted/Validation/200b5bb9b77d01ad.jpg 468,201,818,236,5
+/data/datasets/ImageNet/JPEGImages/n06794110_1463.JPEG 64,138,288,260,4
+/data/datasets/OIDV4extracted/Validation/4babec5c7441cf9a.jpg 287,0,490,186,5
+/data/datasets/OIDV4extracted/Validation/5c1b2db37381b089.jpg 56,52,926,931,5
+/data/datasets/ImageNet/JPEGImages/n03717622_777.JPEG 1,0,498,488,3
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aqxxbgqhvsoubenj.jpg 299,94,365,267,5 377,82,459,278,5 168,323,278,435,0
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ahfqiltmpmaeymhm.jpg 284,161,329,198,5
+/data/datasets/ImageNet/JPEGImages/n03717622_5794.JPEG 2,0,498,498,3
+/data/datasets/OIDV4extracted/Validation/cd433491aebffbd1.jpg 234,0,901,575,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_alpprsjwulpatqil.jpg 211,1,274,99,5
+/data/datasets/OIDV4extracted/Validation/9971996f732fce6e.jpg 0,402,679,972,5
+/data/datasets/ImageNet/JPEGImages/n03717622_5483.JPEG 0,1,355,498,3
+/data/datasets/OIDV4extracted/Validation/9ad28788239f4407.jpg 5,18,676,964,5
+/data/datasets/OIDV4extracted/Validation/b3cb3f910aa4d959.jpg 613,0,642,120,5
+/data/datasets/ImageNet/JPEGImages/n06794110_5500.JPEG 120,83,221,181,4
+/data/datasets/ImageNet/JPEGImages/n03717622_318.JPEG 74,34,417,357,3
+/data/datasets/ImageNet/JPEGImages/n06794110_1829.JPEG 58,145,229,337,4
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aytymoycepjxffiv.jpg 223,116,262,154,5
+/data/datasets/OIDV4extracted/Validation/93d0c28ab2d680b2.jpg 456,305,489,414,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bkbovhcdwdqkfowp.jpg 1762,9,2098,659,5 1094,4,1515,713,5 166,0,785,767,5 2340,512,2629,1053,2 2115,587,2286,828,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ajhsxexbvnqrcqwo.jpg 1001,0,1081,369,2 1132,1,1278,489,2
+/data/datasets/ImageNet/JPEGImages/n03891251_782.JPEG 49,12,481,362,0
+/data/datasets/OIDV4extracted/Validation/ce18212ec1854528.jpg 0,328,15,362,5 15,324,38,360,5 111,311,135,346,5 136,307,146,342,5 896,286,924,324,5 930,287,961,329,5
+/data/datasets/OIDV4extracted/Validation/964ee9ce188dc71c.jpg 0,17,682,672,5
+/data/datasets/OIDV4extracted/Validation/d5616e7411a58099.jpg 230,150,324,474,2
+/data/datasets/ImageNet/JPEGImages/n03717622_9535.JPEG 1,2,497,374,3
+/data/datasets/OIDV4extracted/Validation/d95905d1f1b3ee5c.jpg 0,182,306,516,5 424,193,573,569,5 630,153,888,642,5 983,119,1023,675,5
+/data/datasets/OIDV4extracted/Validation/c31dc8f1108b09d1.jpg 214,0,980,583,5
+/data/datasets/OIDV4extracted/Validation/dca77c13036ee7b8.jpg 533,222,678,959,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aqgkwjnyufarwztm.jpg 0,0,63,71,5
+/data/datasets/OIDV4extracted/Validation/aed59fc1d72f575d.jpg 473,293,497,418,2 548,152,773,738,2
+/data/datasets/ImageNet/JPEGImages/n06794110_2890.JPEG 64,47,439,142,4
+/data/datasets/ImageNet/JPEGImages/n03891251_409.JPEG 38,45,468,308,0
+/data/datasets/OIDV4extracted/Validation/1945f91b6f5311ed.jpg 972,344,1023,507,2 305,307,410,373,5 479,281,661,409,5 603,0,704,27,5 664,285,803,407,5 788,309,887,406,5 905,0,992,78,5
+/data/datasets/OIDV4extracted/Validation/bf84daf0f99a68bd.jpg 25,0,381,763,5 552,191,673,677,5 745,279,799,562,5
+/data/datasets/OIDV4extracted/Validation/341d77a8f5bb354b.jpg 209,216,847,767,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_apqdzfyzweqomfmj.jpg 0,290,62,1015,5 119,349,162,673,5 426,314,472,726,2 548,222,705,1034,2 255,369,298,497,2
+/data/datasets/OIDV4extracted/Validation/1b9a720f8a90c62a.jpg 235,451,410,843,2
+/data/datasets/OIDV4extracted/Validation/920cad2819e4bb3f.jpg 19,561,39,582,5 19,518,43,540,5 22,476,45,500,5 59,561,64,581,5 64,521,68,541,5 65,482,72,504,5 302,194,605,474,5
+/data/datasets/OIDV4extracted/Validation/9ee5738d8e78a47c.jpg 387,674,540,829,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_atoadlwgpxhwqqqe.jpg 1430,54,1782,1009,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_adfasokmnyonsese.jpg 95,1,166,130,5
+/data/datasets/ImageNet/JPEGImages/n03717622_4878.JPEG 93,17,395,295,3
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aafesxmciavqmkxw.jpg 162,21,268,118,5
+/data/datasets/ImageNet/JPEGImages/n06794110_3909.JPEG 74,190,261,286,4 277,158,440,281,4
+/data/datasets/OIDV4extracted/Validation/4af9fa39d33322f1.jpg 0,10,1023,796,5
+/data/datasets/OIDV4extracted/Validation/cb771ddc84036216.jpg 0,62,94,606,5
+/data/datasets/OIDV4extracted/Validation/7912b67b3a338c04.jpg 0,0,766,1022,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ayqciwmfwnborbjk.jpg 567,930,710,1307,2 455,297,636,550,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aaczlpbzrdvkzymz.jpg 876,641,941,790,2 869,447,951,550,5 576,436,659,545,5
+/data/datasets/OIDV4extracted/Validation/4573dcc2da7ca1a1.jpg 0,0,987,766,2
+/data/datasets/OIDV4extracted/Validation/f62eba79545517b6.jpg 153,0,918,682,2
+/data/datasets/ImageNet/JPEGImages/n06794110_1795.JPEG 9,3,2599,916,4
+/data/datasets/ImageNet/JPEGImages/n06794110_562.JPEG 151,164,326,238,4
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_avlpharybhmfewbj.jpg 109,74,167,184,2
+/data/datasets/ImageNet/JPEGImages/n03717622_9744.JPEG 35,30,453,343,3
+/data/datasets/OIDV4extracted/Validation/9c1cc45179a1aaba.jpg 384,153,430,212,5 432,162,515,224,5 515,183,566,225,5 567,137,618,223,5 570,244,620,373,5
+/data/datasets/OIDV4extracted/Validation/20c0763f3931f53e.jpg 0,0,642,606,5
+/data/datasets/ImageNet/JPEGImages/n03891251_3532.JPEG 200,221,492,388,0 0,177,206,381,0 212,218,490,375,0
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_axzqxgkpwbxmpgnq.jpg 36,427,144,462,0 807,403,845,435,0 23,151,67,209,5 117,161,154,213,5 199,165,236,214,5 69,318,109,373,5 157,318,194,370,5
+/data/datasets/OIDV4extracted/Validation/4dcbea7a792e8d6c.jpg 64,502,114,673,5 102,243,139,386,5 133,491,256,672,5 171,224,273,365,5 184,48,364,173,5 293,495,379,668,5 322,228,385,384,5 464,475,723,662,5 507,255,577,393,5 552,43,624,180,5 602,250,674,393,5 786,44,863,173,5 814,272,881,368,5
+/data/datasets/OIDV4extracted/Validation/0a556c8163b58fae.jpg 8,91,416,346,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_abufjhynjnqneima.jpg 706,266,1269,692,5
+/data/datasets/OIDV4extracted/Validation/ccc6cc13dd83bfe7.jpg 23,31,799,887,4
+/data/datasets/OIDV4extracted/Validation/32ec4cc7b95ce746.jpg 0,6,355,718,5 390,116,767,673,5
+/data/datasets/OIDV4extracted/Validation/36f4efe290080228.jpg 6,136,12,148,5 7,201,14,213,5 15,136,21,149,5 868,288,897,319,5 997,296,1008,317,5 1013,295,1023,331,5
+/data/datasets/OIDV4extracted/Validation/a25ff500ffc73149.jpg 0,78,454,1023,5
+/data/datasets/OIDV4extracted/Validation/ad9a8dc4642fc95f.jpg 231,39,453,299,4
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aoihskzhczurzgyg.jpg 412,111,463,288,2 534,104,572,248,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_adlhsdglztwlypkj.jpg 399,138,452,173,5 71,89,185,163,5
+/data/datasets/ImageNet/JPEGImages/n03717622_7486.JPEG 86,67,400,348,3
+/data/datasets/ImageNet/JPEGImages/n03717622_8516.JPEG 7,8,491,418,3
+/data/datasets/OIDV4extracted/Validation/a3792682b8a65cff.jpg 84,301,165,665,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_airpfnjxpofcfijg.jpg 463,71,498,144,5 374,92,452,159,5
+/data/datasets/OIDV4extracted/Validation/2edc0212721c4f22.jpg 0,0,240,425,5
+/data/datasets/OIDV4extracted/Validation/3313635dda11cb72.jpg 42,10,673,813,5
+/data/datasets/OIDV4extracted/Validation/32bbdc464dd794e2.jpg 594,204,691,383,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aofyuejouqtbyooo.jpg 868,111,1004,331,2 624,91,865,394,5 653,115,850,386,5
+/data/datasets/OIDV4extracted/Validation/1cbed7735563a5c6.jpg 536,0,1023,288,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_agqyxhygariytugd.jpg 179,22,217,123,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ailakampralbtnok.jpg 61,60,110,110,5 60,127,111,186,5
+/data/datasets/OIDV4extracted/Validation/8617bac4c133b7f4.jpg 122,612,471,767,5 125,148,531,430,5 529,124,984,438,5 577,622,953,767,5
+/data/datasets/OIDV4extracted/Validation/fe7ca35356990449.jpg 456,138,507,241,5 774,123,832,220,5
+/data/datasets/OIDV4extracted/Validation/1fc6d80f8cb3494a.jpg 128,294,147,369,5 154,259,182,349,5 210,224,295,318,5 417,233,442,318,5 418,436,447,550,5 469,204,519,312,5 473,431,522,548,5 546,206,612,326,5 547,434,616,549,5 623,236,647,338,5 631,449,646,541,5
+/data/datasets/OIDV4extracted/Validation/65ebdb225140d906.jpg 0,162,83,538,5 198,63,836,551,5 937,179,1023,542,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_awsoyfpuqunvchhm.jpg 80,104,173,383,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aaafspbtffjzbnwo.jpg 2022,1249,2076,1348,5 2028,1368,2079,1459,5 2131,1357,2179,1451,5 2131,1246,2173,1337,5 2131,1129,2173,1223,5 2025,1169,2071,1232,5
+/data/datasets/OIDV4extracted/Validation/837edc5b14bb06ae.jpg 1,0,194,503,5 492,1,681,501,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aaqxnlpimoizpajr.jpg 1989,577,2148,944,2
+/data/datasets/OIDV4extracted/Validation/8689e6fdcf60ef6d.jpg 0,52,137,332,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aavhjjwwicmitbbc.jpg 1737,0,2057,498,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_brjtazbjthomjqkn.jpg 1231,1545,1484,1775,0 1136,1180,1310,1671,2
+/data/datasets/OIDV4extracted/Validation/1ea0ad8356b0b47c.jpg 102,282,767,1022,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aauueuhhvklldjik.jpg 2,243,87,277,0 104,216,277,269,0 288,236,372,269,0
+/data/datasets/ImageNet/JPEGImages/n03717622_943.JPEG 81,104,357,331,3
+/data/datasets/ImageNet/JPEGImages/n03717622_6709.JPEG 19,22,450,343,3
+/data/datasets/ImageNet/JPEGImages/n06794110_242.JPEG 295,144,391,231,4 196,140,293,226,4 92,93,171,125,4 243,0,259,142,4 89,129,196,220,4
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aheytktztscwvheh.jpg 1245,281,1632,989,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aezskrdooxpxkcsk.jpg 238,29,273,108,5
+/data/datasets/OIDV4extracted/Validation/068e474ba9f4786c.jpg 0,323,100,481,5 339,0,703,89,5 923,0,1023,85,5
+/data/datasets/OIDV4extracted/Validation/69abafd1450b5203.jpg 489,608,532,721,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_adganvxucgtbpcmr.jpg 666,2,997,357,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_acykyabemulxfxgn.jpg 0,270,54,339,2
+/data/datasets/ImageNet/JPEGImages/n03717622_4624.JPEG 86,23,404,335,3
+/data/datasets/OIDV4extracted/Validation/b48ad51e692bf8d1.jpg 147,0,343,525,2 835,0,941,504,2
+/data/datasets/ImageNet/JPEGImages/n03717622_5180.JPEG 115,36,426,347,3
+/data/datasets/OIDV4extracted/Validation/c4412bf89e38606f.jpg 0,0,1023,655,5
+/data/datasets/ImageNet/JPEGImages/n03717622_9831.JPEG 113,64,386,304,3
+/data/datasets/OIDV4extracted/Validation/c89d9010b8b2656e.jpg 9,0,753,1022,2 153,261,646,961,5
+/data/datasets/OIDV4extracted/Validation/12b9ed6226327941.jpg 208,484,256,553,5 335,285,389,377,5 437,508,480,569,5 671,224,689,328,5 705,197,725,301,5 710,661,749,679,5 715,513,729,540,5 768,178,799,287,5 818,189,850,299,5 824,660,853,675,5
+/data/datasets/OIDV4extracted/Validation/d61c9511b55db11b.jpg 204,191,421,994,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aaipxmqbzbhbbmxk.jpg 2424,0,3261,846,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aoftspscecqkstsv.jpg 394,61,430,181,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ajiniuykiyqyizbq.jpg 131,2,299,202,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_axybkkckecsrkkse.jpg 181,4,231,111,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_atpteycewifkyfla.jpg 244,0,299,234,2
+/data/datasets/OIDV4extracted/Validation/74142e7a66727260.jpg 163,60,517,766,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bjayhiluakhfxuon.jpg 1295,332,1398,594,5 963,361,1167,614,5 458,352,683,617,5 714,352,929,609,5
+/data/datasets/ImageNet/JPEGImages/n03717622_6810.JPEG 90,129,412,343,3
+/data/datasets/OIDV4extracted/Validation/8ac16eb6776cee5e.jpg 395,277,445,341,5 468,249,564,335,5 570,242,678,327,5 888,533,928,560,5 892,492,926,510,5 906,456,935,471,5 920,488,953,513,5 927,579,969,599,5 930,536,969,561,5 936,456,964,468,5 952,431,967,448,5 953,491,986,507,5 981,535,1003,561,5 985,579,1003,598,5 986,490,1017,511,5 1000,455,1023,481,5
+/data/datasets/OIDV4extracted/Validation/4f76d507fd32eace.jpg 534,0,645,36,5 985,0,1022,37,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_agogtxredcrloriq.jpg 63,51,129,177,5
+/data/datasets/ImageNet/JPEGImages/n06794110_3631.JPEG 126,144,424,329,4 173,25,412,185,4
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_axirqukkawruauqz.jpg 483,147,554,325,2 10,140,75,310,2
+/data/datasets/OIDV4extracted/Validation/fa17861c768f5a51.jpg 223,312,322,484,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bbckgrqyztrhdfyy.jpg 1160,89,1202,180,5 1427,89,1459,126,5 957,89,1046,162,5
+/data/datasets/OIDV4extracted/Validation/22eef21f892d0d1e.jpg 45,0,632,1022,2 161,27,304,272,5 434,42,581,291,5
+/data/datasets/OIDV4extracted/Validation/7afa6eff6815910b.jpg 451,100,592,434,2 159,139,179,178,5 162,145,179,180,5 179,137,201,183,5 182,141,201,180,5 202,128,458,203,5 275,48,304,92,5 468,123,561,217,5 470,0,553,44,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ahrltmuwbiehihpe.jpg 172,96,222,255,5 1729,265,1815,368,5 1851,272,1990,374,5 2027,53,2166,113,5
+/data/datasets/OIDV4extracted/Validation/0976ba69fb97127e.jpg 321,191,838,473,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ahsyufcxxnfwzjsj.jpg 400,139,501,375,5
+/data/datasets/OIDV4extracted/Validation/c7eea3df74e69294.jpg 51,400,88,484,5 57,273,97,329,5 193,387,222,479,5 200,232,230,318,5 231,386,278,478,5 239,233,288,318,5 289,387,314,481,5 295,236,336,315,5 427,110,480,171,5 558,392,593,486,5 561,232,598,323,5 604,392,654,492,5 608,232,660,319,5 670,394,707,490,5 674,234,707,324,5 771,291,806,322,5 880,278,920,352,5 965,418,997,504,5 1001,424,1018,506,5
+/data/datasets/OIDV4extracted/Validation/a282fabf92888573.jpg 629,482,767,867,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_azkctnfdmyvojmql.jpg 445,148,540,219,5 595,130,681,205,5
+/data/datasets/OIDV4extracted/Validation/00794645d77184eb.jpg 777,0,817,127,5 897,0,943,202,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_asgluqqnbrbeysex.jpg 21,88,64,204,2
+/data/datasets/OIDV4extracted/Validation/fb6e35f4e8ad790f.jpg 493,0,961,1023,2
+/data/datasets/OIDV4extracted/Validation/721090b5917ae98b.jpg 0,489,493,767,5 0,0,561,281,5 10,531,450,762,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_apyybretgsgpzvlj.jpg 2,102,125,266,5 594,0,639,478,2
+/data/datasets/OIDV4extracted/Validation/2a9036057870163f.jpg 313,419,446,473,5 359,732,522,856,5 389,202,406,219,5 425,180,441,198,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_amizunobhwnkgnvi.jpg 3,54,40,104,5 95,126,177,191,0
+/data/datasets/ImageNet/JPEGImages/n03717622_9240.JPEG 96,14,407,322,3
+/data/datasets/OIDV4extracted/Validation/2a0905a2ff63f09e.jpg 606,395,681,663,5
+/data/datasets/OIDV4extracted/Validation/7f58d35e931e4bd7.jpg 22,165,46,182,5 44,167,94,182,5 171,166,185,190,5 178,165,227,192,5 301,176,331,199,5 331,178,376,196,5 357,0,521,70,5 554,93,632,123,5 556,11,673,75,5 772,122,843,204,5 832,150,882,205,5 877,162,907,201,5
+/data/datasets/ImageNet/JPEGImages/n03717622_7990.JPEG 9,11,490,484,3
+/data/datasets/ImageNet/JPEGImages/n06794110_5219.JPEG 31,48,469,199,4
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_astciqbjbskvahse.jpg 61,71,174,133,5
+/data/datasets/ImageNet/JPEGImages/n06794110_6496.JPEG 58,131,440,636,4 104,172,321,264,4 109,103,249,170,4 108,279,242,374,4
+/data/datasets/OIDV4extracted/Validation/7bf9d8a6cab7c3da.jpg 100,201,663,1023,2
+/data/datasets/OIDV4extracted/Validation/849dc513c985878d.jpg 174,106,216,219,5 199,128,239,235,5 221,143,261,287,5 475,152,526,231,5 537,157,578,253,5 577,165,625,262,5
+/data/datasets/ImageNet/JPEGImages/n06794110_5550.JPEG 85,152,137,172,4 84,154,139,167,4 143,28,262,199,4 248,38,303,162,4
+/data/datasets/OIDV4extracted/Validation/385c665505276be2.jpg 0,346,73,489,5 72,0,750,157,5 91,346,387,578,5
+/data/datasets/ImageNet/JPEGImages/n03717622_5608.JPEG 1,4,495,495,3
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_adzvkvahlqngejti.jpg 162,46,197,108,5 207,44,246,115,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aetjnoctxfvxfqgi.jpg 90,23,147,147,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aygwvyhahtnfdxql.jpg 0,0,35,46,5
+/data/datasets/OIDV4extracted/Validation/255044491f5a7583.jpg 0,554,69,597,5 5,382,79,436,5 9,383,72,430,5 80,261,93,284,5 105,552,182,595,5 117,374,189,430,5 142,246,166,278,5 223,362,309,417,5 227,546,313,596,5 232,361,307,427,5 237,370,308,418,5 893,320,916,381,5 894,314,918,377,5 899,526,929,573,5 905,522,926,575,5 977,312,1023,384,5 979,521,1023,580,5 981,526,1003,574,5 983,522,1006,574,5 1018,520,1023,575,5
+/data/datasets/OIDV4extracted/Validation/2ace7ed94cce89ee.jpg 0,102,157,767,2 546,144,709,363,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_abgsudgeaejqbwtn.jpg 111,1,160,115,2
+/data/datasets/OIDV4extracted/Validation/be61e39e9ddd4f79.jpg 395,0,681,243,4
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_atinfjbopuqqwmbo.jpg 26,30,84,102,5
+/data/datasets/OIDV4extracted/Validation/5711198e8b0bad28.jpg 92,0,128,168,5 333,222,508,521,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aggpnrxrbrhbjlgn.jpg 510,341,1039,1278,5 2306,302,2955,1316,5
+/data/datasets/OIDV4extracted/Validation/2048c69c770aa968.jpg 232,259,481,512,5 486,261,747,512,5
+/data/datasets/ImageNet/JPEGImages/n03717622_7775.JPEG 92,46,404,332,3
+/data/datasets/OIDV4extracted/Validation/8c9748726f6d2006.jpg 127,110,339,278,5 359,97,477,290,5 768,158,901,292,5
+/data/datasets/ImageNet/JPEGImages/n06794110_4057.JPEG 128,3,489,290,4
+/data/datasets/OIDV4extracted/Validation/3692c7b2c4697ed9.jpg 575,0,918,305,5
+/data/datasets/OIDV4extracted/Validation/ea2b8483b035c032.jpg 0,0,679,1022,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_agctjiqflyqiupzx.jpg 506,22,682,332,5
+/data/datasets/OIDV4extracted/Validation/5701b72c6bcbebb6.jpg 86,191,228,293,5 343,191,468,307,5 491,190,672,313,5 787,183,929,281,5
+/data/datasets/OIDV4extracted/Validation/1f74ce3e07a2ffd4.jpg 0,0,923,647,5
+/data/datasets/OIDV4extracted/Validation/f6b18f69ec5b4f5c.jpg 926,138,1023,405,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aohayxcvefirmdaw.jpg 2,64,173,275,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_auvbqsesjcdiljch.jpg 576,100,639,237,5 0,150,59,316,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_acbvicplscwnpfws.jpg 68,17,154,130,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_asrgxgphowlzxinb.jpg 5,34,51,263,5
+/data/datasets/OIDV4extracted/Validation/968d0022f4b1d0dc.jpg 222,62,462,551,5
+/data/datasets/ImageNet/JPEGImages/n03717622_8492.JPEG 19,16,472,423,3
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bbleaylztarsqofu.jpg 775,1050,967,1255,2 1038,1050,1217,1250,2
+/data/datasets/OIDV4extracted/Validation/4e2c4c45ff11949a.jpg 660,162,724,255,5
+/data/datasets/ImageNet/JPEGImages/n03717622_5064.JPEG 88,0,418,325,3
+/data/datasets/OIDV4extracted/Validation/d0e26d6efd457fc8.jpg 0,99,378,508,5
+/data/datasets/ImageNet/JPEGImages/n03717622_9376.JPEG 1,13,498,343,3
+/data/datasets/ImageNet/JPEGImages/n03717622_9117.JPEG 76,28,410,356,3
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aesiemiyapxsgahq.jpg 0,121,140,246,0 123,121,350,233,0
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aqidnkyznzdvdcbl.jpg 341,58,523,253,5
+/data/datasets/ImageNet/JPEGImages/n06794110_1265.JPEG 101,180,379,253,4 103,259,378,327,4
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_akstgzusofshlxdo.jpg 560,120,690,409,5 436,142,534,389,5 343,160,417,330,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aprsiotigipwlykg.jpg 94,2,295,132,5 58,281,102,447,5 108,279,162,451,5 168,277,226,451,5 228,279,282,449,5 288,280,334,447,5
+/data/datasets/ImageNet/JPEGImages/n03891251_1826.JPEG 106,60,288,282,0
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aliflpbinmxfdrtz.jpg 2,1,106,512,2
+/data/datasets/OIDV4extracted/Validation/8d1e53413cd9c13f.jpg 267,615,588,929,4
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_apkathblcblsmspn.jpg 538,154,582,288,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ateoptjjakachbou.jpg 459,344,666,540,5
+/data/datasets/OIDV4extracted/Validation/ceceeeddd2b92e54.jpg 0,0,767,1023,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_asnreivilfikgaft.jpg 0,271,35,374,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_acuqavxfjvwrlhur.jpg 438,1323,470,1390,5 505,1328,538,1398,5 740,1330,775,1390,5 1133,1483,1205,1745,2
+/data/datasets/OIDV4extracted/Validation/84d07529873ad4ee.jpg 356,152,641,702,2
+/data/datasets/OIDV4extracted/Validation/ad336927e1782c14.jpg 958,60,1022,389,5
+/data/datasets/OIDV4extracted/Validation/9dba9c1e70302873.jpg 820,104,909,958,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_dcbcxnknyzogzitj.jpg 167,104,220,185,5
+/data/datasets/OIDV4extracted/Validation/44ae2d5cefae885c.jpg 0,0,1023,650,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aaoonjpbnjdpzfnu.jpg 1703,795,1736,844,5 1628,732,1682,785,5 1293,852,1353,961,5 1290,617,1351,729,5 1285,407,1347,530,5 1048,543,1134,688,5 1045,297,1129,450,5 654,432,727,566,5 658,118,731,301,5 54,249,160,409,5 44,525,99,636,5 37,824,146,941,5 646,789,725,925,5 1053,830,1125,964,5
+/data/datasets/OIDV4extracted/Validation/7884ca4ac4fe6e4b.jpg 28,252,139,407,5 181,127,853,629,5 897,508,1023,648,5
+/data/datasets/OIDV4extracted/Validation/cec633e80c68b587.jpg 21,117,288,801,5 430,133,552,492,5 432,503,550,655,5
+/data/datasets/ImageNet/JPEGImages/n03891251_3462.JPEG 200,264,480,355,0
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bubeehcgngkyqymr.jpg 867,56,904,132,5 876,144,911,222,5 882,247,920,342,5 938,195,981,296,5 825,193,857,265,5 840,415,874,507,5 890,374,929,471,5 950,330,993,433,5 848,547,882,636,5 901,511,940,608,5 961,473,1008,577,5 911,657,955,754,5 929,88,970,171,5
+/data/datasets/OIDV4extracted/Validation/d03a9e6293d18e28.jpg 0,0,612,344,5
+/data/datasets/ImageNet/JPEGImages/n06794110_1251.JPEG 18,12,93,122,4
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_acclngswciyrjytf.jpg 2304,9,3069,417,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aargqoyvvsvylmht.jpg 155,294,536,630,5 1406,253,1598,1066,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_amddvjnwmnnghxrh.jpg 310,89,635,384,5
+/data/datasets/ImageNet/JPEGImages/n06794110_5446.JPEG 37,16,465,333,4
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_afuzvgpjofhenper.jpg 198,137,300,220,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ahhypvgxkkxdsuik.jpg 421,582,636,681,5 423,360,647,486,5 495,1003,569,1175,2 672,105,945,347,5 416,110,672,246,5 264,121,423,329,5
+/data/datasets/OIDV4extracted/Validation/ac015c1a9db5fe6c.jpg 302,75,869,638,5
+/data/datasets/OIDV4extracted/Validation/5d76ffa3b8280c2c.jpg 88,322,217,573,5 196,50,303,251,5 264,341,372,571,5 441,100,557,285,5 608,366,687,562,5 651,150,724,310,5 712,377,781,560,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ahibbgmmlkktxrmq.jpg 536,59,640,280,5
+/data/datasets/ImageNet/JPEGImages/n03717622_2684.JPEG 0,0,499,248,3
+/data/datasets/OIDV4extracted/Validation/af5a8f3fad1221d2.jpg 230,101,303,182,5 487,153,636,294,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_afsdfcgrkgufqert.jpg 140,31,208,108,5 0,0,48,126,5
+/data/datasets/ImageNet/JPEGImages/n03717622_9973.JPEG 84,29,426,369,3
+/data/datasets/OIDV4extracted/Validation/e8b2a80b051f5dfa.jpg 341,357,469,750,2
+/data/datasets/OIDV4extracted/Validation/e8067d34fc024ce7.jpg 0,0,449,81,5
+/data/datasets/OIDV4extracted/Validation/94c99b3aea7ee041.jpg 722,352,735,374,4
+/data/datasets/ImageNet/JPEGImages/n03891251_5423.JPEG 27,58,408,287,0
+/data/datasets/ImageNet/JPEGImages/n03717622_3969.JPEG 0,0,498,492,3
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_areucynfkfkbilxj.jpg 3,124,118,319,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aipcplbfasvitxpl.jpg 109,18,141,108,5
+/data/datasets/ImageNet/JPEGImages/n03891251_86.JPEG 21,122,328,298,0
+/data/datasets/OIDV4extracted/Validation/e538d42a14bc07ca.jpg 14,0,876,767,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_awrjaixmadzfdmbw.jpg 756,569,827,1795,2 2180,264,2418,1944,2 1321,781,1403,1054,2
+/data/datasets/OIDV4extracted/Validation/4a6417af0fc44637.jpg 262,261,804,503,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_amyvdsxkokkyxnft.jpg 2,33,41,180,5 117,60,207,186,5 295,59,383,183,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_deomonrjnryvglit.jpg 527,222,577,313,2
+/data/datasets/OIDV4extracted/Validation/7c2825a3d8e0ed29.jpg 0,0,141,1022,2
+/data/datasets/ImageNet/JPEGImages/n03717622_5783.JPEG 65,63,437,438,3
+/data/datasets/OIDV4extracted/Validation/bde3f4a80c695db8.jpg 0,285,50,415,5 79,286,187,413,5 204,305,233,409,5 486,252,513,315,5 845,325,901,358,5 856,392,905,421,5
+/data/datasets/OIDV4extracted/Validation/360a35c7c35e6bb5.jpg 148,85,358,613,5
+/data/datasets/OIDV4extracted/Validation/9dcea48255ac8ce5.jpg 0,0,432,254,5 679,0,914,151,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ahviydoezasajqcc.jpg 491,240,603,365,5
+/data/datasets/ImageNet/JPEGImages/n03717622_6660.JPEG 19,6,477,405,3
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_anqirdyzmtikpyqb.jpg 174,172,237,276,5 11,163,164,297,5
+/data/datasets/OIDV4extracted/Validation/52adcabd1615814d.jpg 197,493,260,535,5 497,346,553,440,5 515,184,543,231,5
+/data/datasets/OIDV4extracted/Validation/07b3a3344f93d5fe.jpg 90,297,121,363,5 273,284,346,422,5 430,317,461,430,5 541,324,601,431,5 867,333,920,438,5
+/data/datasets/OIDV4extracted/Validation/a9e2202c55ebf5d7.jpg 30,167,287,344,5 339,170,797,350,5
+/data/datasets/OIDV4extracted/Validation/5805f0735dbeaf9e.jpg 30,68,923,563,5
+/data/datasets/OIDV4extracted/Validation/e02fe988857214ce.jpg 4,2,767,1022,2
+/data/datasets/OIDV4extracted/Validation/0f731adcd7458c2b.jpg 0,0,751,134,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_axulqcgeyuwcswpg.jpg 696,178,776,429,2 0,129,50,506,2
+/data/datasets/OIDV4extracted/Validation/2ed000d799794d71.jpg 0,0,145,269,5 192,0,490,271,5 529,0,766,276,5
+/data/datasets/OIDV4extracted/Validation/ea1c9b23ecffa2d2.jpg 124,374,170,478,5
+/data/datasets/ImageNet/JPEGImages/n03717622_9384.JPEG 76,22,414,305,3
+/data/datasets/ImageNet/JPEGImages/n03717622_5914.JPEG 181,84,322,222,3
+/data/datasets/OIDV4extracted/Validation/c398a7d19de8f4bc.jpg 0,29,679,953,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_btewcayvsqftlvhp.jpg 1394,236,1564,756,5
+/data/datasets/ImageNet/JPEGImages/n03717622_961.JPEG 62,43,433,413,3
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_avuovlwkkpipjycr.jpg 538,3,799,533,2
+/data/datasets/OIDV4extracted/Validation/9d2b3534780535c0.jpg 0,0,680,1022,2
+/data/datasets/OIDV4extracted/Validation/b0d789834babaea8.jpg 765,289,776,354,5 807,274,895,396,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aqqpmedtxwjrzgcb.jpg 268,479,450,625,5
+/data/datasets/ImageNet/JPEGImages/n03717622_9439.JPEG 59,21,178,122,3
+/data/datasets/OIDV4extracted/Validation/45ed28848e14e7e2.jpg 398,174,469,525,2 580,210,709,526,2 43,146,208,492,5 987,111,1023,408,5
+/data/datasets/OIDV4extracted/Validation/38f481601bac0d4a.jpg 864,0,1022,219,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_byhkibsofitsnzkg.jpg 1911,20,2013,1288,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ajfpvtuxeglzmiuq.jpg 450,1,798,364,5
+/data/datasets/OIDV4extracted/Validation/7105f5486ecb5e61.jpg 32,115,92,180,5 46,4,108,68,5 167,167,216,217,5 175,70,351,186,5 247,197,285,242,5 309,222,345,263,5 366,241,397,280,5 371,169,398,208,5 411,261,475,313,5 417,196,482,243,5 642,300,667,332,5 642,346,665,371,5 729,397,735,408,5 731,355,739,368,5 732,313,739,325,5 738,362,761,384,5 739,403,758,413,5 763,361,788,423,5 813,390,839,437,5 836,395,856,414,5 889,423,901,437,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aopfakremteccarx.jpg 250,8,291,107,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_advgizotokuvhnwe.jpg 47,194,121,260,5 141,195,194,255,5 214,195,254,249,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aqqzsofetpoqhzvd.jpg 226,193,261,252,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ajpnzaxztvciigbj.jpg 210,1,271,126,5
+/data/datasets/ImageNet/JPEGImages/n03891251_1903.JPEG 17,147,301,482,0
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aujxmsjcipdhmxzu.jpg 342,1,640,480,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_agohtxrjpxosootw.jpg 347,2,510,82,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aqwftswdprartmac.jpg 984,714,1018,782,5 1229,696,1281,783,5 1351,712,1391,788,5 1235,833,1287,915,5 1356,836,1398,914,5 985,850,1019,946,2 762,497,856,556,5 1031,608,1064,651,5 981,598,1017,644,5 1100,580,1134,646,5 1224,576,1272,646,5 1341,595,1386,661,5 346,632,441,732,5 771,648,854,742,5 346,470,455,537,5 770,831,854,929,5 1113,839,1145,922,5 343,830,435,930,5
+/data/datasets/ImageNet/JPEGImages/n03717622_9045.JPEG 55,133,315,347,3
+/data/datasets/ImageNet/JPEGImages/n06794110_4826.JPEG 109,42,401,320,4
+/data/datasets/OIDV4extracted/Validation/2dd9c53734a0b30d.jpg 671,0,733,700,5
+/data/datasets/OIDV4extracted/Validation/063b11e981ae1db4.jpg 331,24,728,395,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bvfqcxulrbpwkshq.jpg 901,2,1597,379,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_arkliqrdotwuomtv.jpg 331,98,542,465,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ajmwuchjwayiffrs.jpg 1,13,36,217,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_acbfjkoziukwmdkd.jpg 210,94,384,247,5
+/data/datasets/ImageNet/JPEGImages/n06794110_297.JPEG 72,70,381,312,4
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_axkypodhgwwbingr.jpg 45,71,127,130,5
+/data/datasets/OIDV4extracted/Validation/a9f4d34d3ebf4fa5.jpg 0,67,767,1008,5
+/data/datasets/OIDV4extracted/Validation/e55262b4c9f65a02.jpg 74,83,607,968,2
+/data/datasets/OIDV4extracted/Validation/2adab7f7f79ae40a.jpg 251,428,289,441,5 792,454,834,470,5
+/data/datasets/OIDV4extracted/Validation/115618b978f8dc88.jpg 57,0,497,1022,5
+/data/datasets/ImageNet/JPEGImages/n03717622_2526.JPEG 108,30,402,298,3
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bmbwttfinbmepxjj.jpg 367,101,661,390,5
+/data/datasets/ImageNet/JPEGImages/n06794110_1081.JPEG 94,71,402,241,4
+/data/datasets/ImageNet/JPEGImages/n03717622_4073.JPEG 55,48,441,409,3
+/data/datasets/ImageNet/JPEGImages/n03717622_5950.JPEG 61,20,412,370,3
+/data/datasets/OIDV4extracted/Validation/0c3567f0d4d650eb.jpg 0,0,1023,576,2
+/data/datasets/OIDV4extracted/Validation/1b66ee083974f58e.jpg 291,299,389,520,2
+/data/datasets/OIDV4extracted/Validation/a183f4972bc4fb3c.jpg 150,317,371,521,2 407,345,604,490,2 669,374,683,462,2
+/data/datasets/OIDV4extracted/Validation/4736473322f99da5.jpg 61,0,603,1022,2
+/data/datasets/OIDV4extracted/Validation/79eb0e5d5f22f362.jpg 16,137,304,494,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aiownvrnvwbmtpau.jpg 264,111,391,235,5 567,115,758,304,5
+/data/datasets/OIDV4extracted/Validation/02608695ddead637.jpg 401,434,417,630,2
+/data/datasets/OIDV4extracted/Validation/49567019a665a27b.jpg 3,203,102,404,5 142,143,264,391,5 365,117,477,287,5 507,152,563,332,5
+/data/datasets/OIDV4extracted/Validation/8f963d22c8f81d10.jpg 242,438,264,494,5 507,367,575,475,5
+/data/datasets/ImageNet/JPEGImages/n03717622_6066.JPEG 33,60,465,347,3
+/data/datasets/OIDV4extracted/Validation/1d1cb0e663151c74.jpg 84,0,213,1023,2
+/data/datasets/OIDV4extracted/Validation/d8518955bf6a1750.jpg 129,201,219,260,5 142,295,205,427,5 142,447,208,578,5 285,303,345,430,5 287,450,347,580,5 354,451,419,577,5 355,303,417,431,5 460,297,524,427,5 462,213,520,266,5 561,301,627,430,5 567,448,628,544,5 634,302,700,431,5 634,448,699,574,5 765,199,846,260,5 773,443,838,573,5 773,293,836,422,5
+/data/datasets/OIDV4extracted/Validation/0fa91664f038fbc8.jpg 359,504,393,581,2
+/data/datasets/OIDV4extracted/Validation/d412642d7e01f790.jpg 590,184,794,196,5 642,604,817,734,5 659,403,854,557,5
+/data/datasets/OIDV4extracted/Validation/0ec036f6e014c1b0.jpg 204,107,755,635,5
+/data/datasets/OIDV4extracted/Validation/ff047e78ba9b3ecd.jpg 35,144,313,762,2 604,148,837,745,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_anrizlxcuggaojas.jpg 451,68,526,173,5 555,46,638,163,5 457,240,490,350,2 560,212,638,322,5 177,121,225,197,5
+/data/datasets/ImageNet/JPEGImages/n03717622_11429.JPEG 4,73,881,882,3
+/data/datasets/OIDV4extracted/Validation/c99e399f9269a29c.jpg 385,436,407,508,5 472,443,488,503,5
+/data/datasets/OIDV4extracted/Validation/ad2a50d8ef602683.jpg 664,550,719,664,2
+/data/datasets/OIDV4extracted/Validation/5d0211e65e46861d.jpg 0,444,50,527,5 6,444,45,546,5 378,436,478,553,5 476,438,561,559,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aogdxzfibaszszoe.jpg 267,231,599,799,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aezxamhyrmicqitq.jpg 2143,252,2885,1865,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ayiuiqvloycavqvm.jpg 146,320,324,1004,5 336,361,522,935,5 659,367,1069,805,5
+/data/datasets/OIDV4extracted/Validation/d5b49d2512986551.jpg 155,279,298,353,5 158,151,310,280,5
+/data/datasets/OIDV4extracted/Validation/ac4c3b2697cd78fa.jpg 0,0,441,260,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_argkvnrgktlgxdvp.jpg 182,78,215,128,5
+/data/datasets/OIDV4extracted/Validation/4b4c6b4787761870.jpg 0,158,275,371,5 20,147,557,767,5 571,153,982,764,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bjnlkyeubhatsusk.jpg 0,433,406,1454,2 1063,479,1363,1018,2 1454,494,1621,866,2 1697,518,1815,794,2
+/data/datasets/ImageNet/JPEGImages/n06794110_6834.JPEG 246,116,475,327,4
+/data/datasets/OIDV4extracted/Validation/811f622fd296864f.jpg 784,49,972,245,5 969,49,1016,66,5
+/data/datasets/OIDV4extracted/Validation/a8d16bd7a276eceb.jpg 126,435,516,737,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_acuwiohfaielluxt.jpg 212,1,279,79,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aatitnfcpxiftaxu.jpg 1753,932,2021,1610,2 1118,912,1404,1612,2 63,1033,469,1592,2 2551,1080,2861,1587,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ahrlqqlnluflsuiw.jpg 1390,138,1860,924,5
+/data/datasets/OIDV4extracted/Validation/8a01d74cbf72e782.jpg 314,0,530,425,5
+/data/datasets/ImageNet/JPEGImages/n03717622_4214.JPEG 104,10,408,313,3
+/data/datasets/OIDV4extracted/Validation/52f38994b183f105.jpg 446,709,483,752,5 821,724,835,779,5
+/data/datasets/OIDV4extracted/Validation/e42c117cac1f40b4.jpg 6,72,536,719,5 600,0,1022,766,5
+/data/datasets/OIDV4extracted/Validation/f243d6d523d3ce1c.jpg 69,0,837,341,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aleniaysezwxkvla.jpg 33,0,98,46,5 100,0,148,46,5
+/data/datasets/OIDV4extracted/Validation/a1a2902a397ee73c.jpg 417,415,506,501,5 563,412,676,510,5
+/data/datasets/OIDV4extracted/Validation/3a45b076fd024920.jpg 0,502,110,643,5 0,664,112,942,5 0,491,120,951,5 26,0,629,166,5 32,0,143,166,5 226,0,349,107,5 397,0,528,59,5 609,311,767,840,5 644,329,764,493,5 682,527,767,817,5
+/data/datasets/ImageNet/JPEGImages/n03891251_371.JPEG 111,212,193,293,0
+/data/datasets/OIDV4extracted/Validation/7c1a65d5463897d4.jpg 0,0,855,700,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bkpryjqfchjkeqml.jpg 289,44,328,160,2
+/data/datasets/OIDV4extracted/Validation/6d16c00daebbd676.jpg 0,0,767,1023,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_alaqqejxqgtvwjxy.jpg 166,69,256,192,2 83,93,156,147,5
+/data/datasets/OIDV4extracted/Validation/afa42fe3fe473456.jpg 559,279,738,602,2 918,289,1010,570,2 212,301,358,489,5 782,318,872,474,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_akeivxatfylqkzvw.jpg 275,116,324,157,5
+/data/datasets/OIDV4extracted/Validation/71c022fa0b5b7ec6.jpg 145,135,819,743,5
+/data/datasets/ImageNet/JPEGImages/n06794110_2799.JPEG 195,44,341,79,4 205,205,347,239,4 196,107,343,142,4 209,176,343,203,4 43,242,173,282,4
+/data/datasets/ImageNet/JPEGImages/n03891251_954.JPEG 0,171,333,498,0
+/data/datasets/OIDV4extracted/Validation/e74a86607d2d93ca.jpg 0,0,670,273,5
+/data/datasets/ImageNet/JPEGImages/n03891251_4210.JPEG 37,192,498,373,0
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bjxzjxomniybqhtb.jpg 63,57,132,144,5 211,27,254,107,5
+/data/datasets/OIDV4extracted/Validation/b8ef75b3d7b761c6.jpg 32,0,708,1022,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_acammxxgnpynvfig.jpg 1909,990,2003,1167,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_abnsmswtyyuvgcpz.jpg 38,0,508,520,5
+/data/datasets/OIDV4extracted/Validation/0ce960b8d36cc629.jpg 371,0,489,1022,2
+/data/datasets/OIDV4extracted/Validation/b068ced86b534913.jpg 885,16,988,115,5 1000,23,1023,112,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_agczkachkhhvypvz.jpg 222,41,272,179,5
+/data/datasets/ImageNet/JPEGImages/n03891251_4381.JPEG 210,193,334,315,0
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bziijskxsbcjivwa.jpg 3007,249,3279,1740,2 2790,269,2875,1756,2
+/data/datasets/ImageNet/JPEGImages/n06794110_783.JPEG 167,51,290,161,4 339,124,490,226,4 332,234,368,311,4 332,233,369,310,4 332,231,369,311,4
+/data/datasets/ImageNet/JPEGImages/n06794110_3898.JPEG 0,44,499,287,4 91,75,498,253,4
+/data/datasets/ImageNet/JPEGImages/n06794110_3535.JPEG 133,133,428,200,4
+/data/datasets/OIDV4extracted/Validation/3a60df16418b5822.jpg 321,264,399,346,5 323,366,399,411,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_alirpkobvngaxiuz.jpg 137,94,197,187,5
+/data/datasets/OIDV4extracted/Validation/e28339ea57d1e17c.jpg 555,184,665,434,5 703,134,872,448,5
+/data/datasets/OIDV4extracted/Validation/1ae5fbb901d6fbed.jpg 220,303,301,404,5 220,476,307,597,5 447,303,507,399,5 620,466,692,568,5 627,308,685,398,5 779,456,850,560,5 784,301,839,397,5
+/data/datasets/OIDV4extracted/Validation/7b25926948b1a8bc.jpg 107,132,872,549,5 108,327,162,471,5 323,363,360,491,5 424,376,488,498,5 429,127,493,261,5 580,139,617,278,5 580,371,635,509,5 642,384,685,522,5 645,168,677,296,5 718,232,741,282,5 775,225,804,340,5 778,412,816,536,5 837,248,867,353,5 843,431,871,539,5
+/data/datasets/OIDV4extracted/Validation/89e4c20d726dd643.jpg 91,11,250,156,5 227,231,375,319,5 372,28,523,176,5 407,237,618,323,5 635,63,853,181,5 982,53,1023,208,5
+/data/datasets/OIDV4extracted/Validation/9dbc7a9a5c69d915.jpg 0,0,86,468,5 136,354,471,682,5
+/data/datasets/ImageNet/JPEGImages/n03717622_2392.JPEG 2,291,296,397,3
+/data/datasets/OIDV4extracted/Validation/259b1ae62870b32b.jpg 0,249,686,647,2 884,210,1023,701,2
+/data/datasets/OIDV4extracted/Validation/e35623bbfca05b41.jpg 56,186,809,820,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aghsrrqzynfazdyz.jpg 180,1,224,300,2
+/data/datasets/ImageNet/JPEGImages/n03717622_8381.JPEG 1,5,498,497,3
+/data/datasets/ImageNet/JPEGImages/n06794110_1003.JPEG 43,33,347,193,4
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_arostrfeclmqdszk.jpg 357,389,391,424,5 497,512,530,557,2
+/data/datasets/ImageNet/JPEGImages/n06794110_1616.JPEG 167,68,368,121,4
+/data/datasets/OIDV4extracted/Validation/c297395a6f0c9bc8.jpg 413,32,710,277,5
+/data/datasets/OIDV4extracted/Validation/98a496c5df9864af.jpg 0,0,714,1022,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_apuexfnivftflwil.jpg 235,2,322,237,5 117,23,168,233,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_awyxfkqzdcfgsmcs.jpg 116,107,181,214,2 30,75,76,152,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bvlmaekquaynykzj.jpg 598,255,667,534,2 667,463,760,528,0 756,235,791,578,2 471,213,537,570,2 2,97,126,564,5
+/data/datasets/ImageNet/JPEGImages/n03717622_8554.JPEG 69,53,419,384,3
+/data/datasets/OIDV4extracted/Validation/4b6d2916268cea2b.jpg 439,237,553,413,2
+/data/datasets/ImageNet/JPEGImages/n03891251_1308.JPEG 4,3,499,374,0
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_actojnduntfubowp.jpg 1651,1512,1917,1659,5 821,1561,1038,1721,5 466,1582,699,1733,5 2534,1541,2669,1655,5 2738,1533,2873,1647,5
+/data/datasets/ImageNet/JPEGImages/n06794110_1836.JPEG 57,184,798,331,4 373,267,502,495,4
+/data/datasets/OIDV4extracted/Validation/de41e128b2efc3f9.jpg 0,0,312,766,2
+/data/datasets/OIDV4extracted/Validation/42b2d6f34342f5c4.jpg 65,24,949,607,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_anjxttlwbnlvxxmt.jpg 496,241,537,367,2 286,75,390,311,5
+/data/datasets/OIDV4extracted/Validation/eb416e90140595c3.jpg 0,0,1022,575,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bzvpimzdukgoqggo.jpg 669,370,804,654,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bblhfnavfltnhtyd.jpg 71,139,578,505,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aoiejnraqxcbjkwu.jpg 143,60,198,145,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_avimupzkfdshxvle.jpg 53,1,354,284,1
+/data/datasets/OIDV4extracted/Validation/7182a2a2ab3fba55.jpg 0,0,698,455,5
+/data/datasets/ImageNet/JPEGImages/n06794110_5852.JPEG 261,101,423,217,4 66,89,233,227,4
+/data/datasets/ImageNet/JPEGImages/n06794110_5912.JPEG 149,104,430,182,4
+/data/datasets/OIDV4extracted/Validation/ffe5bc91bfb1dc0d.jpg 80,70,296,248,2 198,337,717,696,2 552,192,650,313,2 946,395,1023,556,2 93,70,281,250,5 556,201,645,304,5 809,389,835,479,5
+/data/datasets/OIDV4extracted/Validation/74fda9f7b64734dd.jpg 54,284,192,565,2 392,327,632,554,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bwegdhzpgjkcxznj.jpg 1050,749,1091,1011,2 1418,827,1476,1024,2 564,847,664,949,5
+/data/datasets/OIDV4extracted/Validation/2aa0e3d8a77149b7.jpg 92,280,235,593,2 779,252,843,525,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ajkmsocwkrlvlstn.jpg 1022,91,1199,641,5 854,78,973,347,5
+/data/datasets/OIDV4extracted/Validation/9a78a47aa2130c4d.jpg 0,0,935,369,5
+/data/datasets/ImageNet/JPEGImages/n06794110_398.JPEG 65,117,449,198,4
+/data/datasets/OIDV4extracted/Validation/5a912acc5b557645.jpg 227,460,256,504,5 276,476,300,518,5 276,562,301,589,5 350,447,380,508,5 352,549,376,609,5 395,544,450,616,5 554,433,616,505,5 824,464,879,520,5
+/data/datasets/OIDV4extracted/Validation/63b95ba4a7b8393b.jpg 194,0,601,598,5 683,0,1023,624,5
+/data/datasets/OIDV4extracted/Validation/7c084a96b181a8fa.jpg 112,283,319,428,5 123,362,178,400,5 564,60,753,189,5 701,473,767,529,5
+/data/datasets/OIDV4extracted/Validation/95af7b10d06e233d.jpg 847,33,907,139,5 876,311,928,376,5 889,594,950,687,5 941,34,1023,137,5 967,306,1023,381,5 991,598,1023,686,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_agycckhlbmrhwnoo.jpg 2,1,71,142,5
+/data/datasets/OIDV4extracted/Validation/f28e197ca9fa3189.jpg 254,173,509,665,2 679,263,754,824,2
+/data/datasets/ImageNet/JPEGImages/n06794110_3293.JPEG 0,196,411,235,4
+/data/datasets/ImageNet/JPEGImages/n03717622_8570.JPEG 133,30,368,253,3
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aqlgbjsusgzcymdm.jpg 5,306,45,464,5 97,317,292,444,5
+/data/datasets/ImageNet/JPEGImages/n03717622_5649.JPEG 18,39,476,432,3
+/data/datasets/OIDV4extracted/Validation/4d5395f6d0aca59f.jpg 0,273,477,389,5 12,482,660,767,5
+/data/datasets/ImageNet/JPEGImages/n03717622_8687.JPEG 77,60,314,242,3
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_atdrdrsxnsdynnrk.jpg 5,73,57,169,5
+/data/datasets/ImageNet/JPEGImages/n06794110_3133.JPEG 208,17,440,199,4
+/data/datasets/OIDV4extracted/Validation/7dfe21dd120e2fea.jpg 71,849,193,1023,2 493,875,608,1023,2
+/data/datasets/OIDV4extracted/Validation/2fbe14d7e980e019.jpg 28,106,644,718,4
+/data/datasets/OIDV4extracted/Validation/0a3f577a327ca7cc.jpg 0,1,765,1023,5
+/data/datasets/OIDV4extracted/Validation/7cc08ffdbac357c1.jpg 0,0,1021,766,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_auhkpjttdfgikzmq.jpg 182,153,411,300,0
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ahwxptpjffbkqikw.jpg 440,1,510,338,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_abizfgybtwpedxqk.jpg 474,168,540,320,5 542,164,629,332,5
+/data/datasets/OIDV4extracted/Validation/2995bebb788ad1ba.jpg 293,235,360,350,5 294,218,450,376,5 378,230,433,346,5 605,229,649,348,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aqgrgbrgrquckjet.jpg 27,16,106,54,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bypfroimzfthzrxy.jpg 10,31,82,335,2
+/data/datasets/ImageNet/JPEGImages/n03891251_269.JPEG 348,206,472,278,0
+/data/datasets/OIDV4extracted/Validation/0cdeaf8125c57fce.jpg 258,0,1023,877,5
+/data/datasets/OIDV4extracted/Validation/414473c4ef1a6483.jpg 0,0,1023,682,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_afzbugkciikhdcbp.jpg 508,230,553,341,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bhiolbctmldyzfba.jpg 68,55,128,99,5
+/data/datasets/OIDV4extracted/Validation/842ab814cc6e2ba8.jpg 35,43,179,682,2 611,264,679,502,2 817,121,834,491,2
+/data/datasets/OIDV4extracted/Validation/4cc459809fd12862.jpg 0,2,396,250,5 362,201,660,368,5 560,192,764,296,5
+/data/datasets/OIDV4extracted/Validation/3c808b952134a90b.jpg 362,680,495,819,2
+/data/datasets/OIDV4extracted/Validation/f5fda4d654b833f6.jpg 79,173,169,520,2
+/data/datasets/OIDV4extracted/Validation/d224c4e1ea5c3d49.jpg 98,63,967,742,5
+/data/datasets/OIDV4extracted/Validation/9054c31d6bc3eaff.jpg 0,186,38,240,5 52,126,82,220,5 133,109,172,207,5 193,98,303,254,5 252,226,383,328,5 367,224,530,327,5 536,225,649,325,5 635,221,692,313,5 681,218,730,300,5 721,212,766,297,5
+/data/datasets/OIDV4extracted/Validation/e26a461655d1856f.jpg 191,323,246,389,5 289,476,312,508,5 728,330,777,390,5
+/data/datasets/OIDV4extracted/Validation/5ad3e0a7ad1fc997.jpg 333,566,483,935,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_azugxsjuonqfaczc.jpg 128,189,194,228,0
+/data/datasets/OIDV4extracted/Validation/d6aeabaa3367dcaa.jpg 509,129,735,246,5
+/data/datasets/OIDV4extracted/Validation/394e44b2a5c20cab.jpg 0,160,382,463,5 652,90,1023,567,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_apjlqamjqainvtex.jpg 56,3,105,111,5 179,3,383,75,5 396,7,439,98,5 440,3,487,113,5
+/data/datasets/ImageNet/JPEGImages/n03717622_1655.JPEG 108,0,373,498,3
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_acqgygwvqpztpqxl.jpg 404,136,463,223,5 13,116,177,279,5
+/data/datasets/ImageNet/JPEGImages/n03891251_1201.JPEG 13,156,257,301,0
+/data/datasets/ImageNet/JPEGImages/n03891251_1170.JPEG 66,304,170,364,0
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bxmuxwilkykbfueb.jpg 3,616,134,655,5
+/data/datasets/OIDV4extracted/Validation/55b7a4a581331b4b.jpg 49,218,681,761,4
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_auvjluwyqizlxmmm.jpg 186,29,255,108,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aogwehbucgpshzah.jpg 265,188,317,222,5 193,173,238,244,2
+/data/datasets/OIDV4extracted/Validation/cd727c5e0d2cfc1b.jpg 0,76,76,270,5 177,223,223,355,5 242,290,267,367,5 270,329,282,390,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_amoioxxlxumsprhh.jpg 0,1,32,250,2 42,65,140,233,2
+/data/datasets/OIDV4extracted/Validation/96b573942e14da60.jpg 0,0,345,681,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_baeknziudrrgxlnb.jpg 29,1,221,169,5
+/data/datasets/OIDV4extracted/Validation/bf7592490fe2a470.jpg 123,187,350,504,2 680,233,758,343,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_acyskgdcspeksdsf.jpg 42,77,372,484,5
+/data/datasets/OIDV4extracted/Validation/a0b518e107b92048.jpg 71,251,906,543,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aabmkmpbqhgzvwae.jpg 184,50,260,129,5
+/data/datasets/OIDV4extracted/Validation/f58c1646f4c43e90.jpg 303,113,403,468,5 435,95,600,494,5 640,128,716,480,5
+/data/datasets/OIDV4extracted/Validation/920ada1023b790ba.jpg 105,0,1023,765,5
+/data/datasets/OIDV4extracted/Validation/a390d69bbd808688.jpg 0,0,766,1022,2
+/data/datasets/ImageNet/JPEGImages/n03717622_3524.JPEG 42,58,485,374,3
+/data/datasets/OIDV4extracted/Validation/14615866a1956cd2.jpg 262,10,941,766,5
+/data/datasets/OIDV4extracted/Validation/7e413f9aa1554a6c.jpg 542,230,686,520,5 690,228,840,531,5
+/data/datasets/ImageNet/JPEGImages/n06794110_1117.JPEG 68,167,165,243,4 190,156,303,221,4
+/data/datasets/OIDV4extracted/Validation/9210ce35abaef2d2.jpg 70,173,219,494,2 78,125,193,323,5 348,143,456,320,5 730,181,855,387,5 910,197,1023,405,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_abtukhmkjdzyfxhr.jpg 2,2,432,2047,2
+/data/datasets/OIDV4extracted/Validation/21b246ca3da40334.jpg 157,208,550,906,2
+/data/datasets/ImageNet/JPEGImages/n03717622_8930.JPEG 18,24,377,278,3
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aehfhlnhndbtgwij.jpg 200,4,280,114,5
+/data/datasets/OIDV4extracted/Validation/71c3eb3687efa946.jpg 400,79,709,292,4
+/data/datasets/OIDV4extracted/Validation/9d22b143ebbbb5c5.jpg 32,147,464,767,5 650,192,1023,767,5
+/data/datasets/OIDV4extracted/Validation/fa8d6d40dac333ea.jpg 73,40,285,468,5
+/data/datasets/OIDV4extracted/Validation/e3b8094c60c4aa27.jpg 423,636,675,880,5
+/data/datasets/OIDV4extracted/Validation/d9ee0aa080c3f5a1.jpg 708,30,1022,683,2
+/data/datasets/OIDV4extracted/Validation/828e168f7a91384c.jpg 472,0,551,195,5 972,274,1016,447,5
+/data/datasets/OIDV4extracted/Validation/bce01b280e7be3c9.jpg 552,86,1023,404,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ahdiffjmygxxgsfq.jpg 565,75,655,131,5 481,77,522,159,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aqxztvuzniojrpzf.jpg 373,251,509,522,5
+/data/datasets/OIDV4extracted/Validation/589f4552413a8acc.jpg 0,45,1011,490,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_akmpghslfyvhwdml.jpg 39,28,527,261,5
+/data/datasets/ImageNet/JPEGImages/n03717622_4164.JPEG 2,9,499,374,3
+/data/datasets/OIDV4extracted/Validation/a9a8f50c4bcef54a.jpg 623,452,760,607,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aetmwtzrzqsompum.jpg 48,69,83,157,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aaeijzjhbdeibdjh.jpg 466,421,539,514,2
+/data/datasets/OIDV4extracted/Validation/2589af84d49a9e4e.jpg 0,221,1023,634,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aavwctthfppvzdtt.jpg 552,216,587,275,5 359,228,413,281,5 161,230,212,287,5 279,226,316,286,5 696,210,791,266,5 885,365,929,441,5 175,381,216,450,2
+/data/datasets/OIDV4extracted/Validation/5b109ce979789e04.jpg 32,0,766,577,5 37,0,530,454,5
+/data/datasets/OIDV4extracted/Validation/e8756ed42130dec6.jpg 547,77,803,607,2 944,83,1022,216,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aymoorzvshzhmakt.jpg 211,273,432,374,0 40,142,94,242,5
+/data/datasets/OIDV4extracted/Validation/0fdb1c7bf5fe76f7.jpg 270,195,290,257,5
+/data/datasets/OIDV4extracted/Validation/39d03ae30dc37b97.jpg 332,310,520,410,5
+/data/datasets/OIDV4extracted/Validation/d0e769b366f1544f.jpg 85,184,264,444,5 289,178,517,445,5 554,160,814,447,5
+/data/datasets/ImageNet/JPEGImages/n03891251_286.JPEG 292,306,433,407,0
+/data/datasets/OIDV4extracted/Validation/bea1f735697cd5f8.jpg 29,11,753,907,4
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_daemcahvngursyym.jpg 550,835,645,1170,5 457,157,550,487,5 705,375,767,655,5 882,545,930,780,5 1032,682,1070,877,5 1412,787,1480,885,5 1122,1437,1200,1677,5 1185,1090,1272,1325,5 1330,1092,1415,1325,5 1455,1097,1525,1330,5
+/data/datasets/OIDV4extracted/Validation/177e8e1e8e2cd5c4.jpg 113,254,159,381,5 124,429,230,584,5 179,249,239,381,5 319,425,387,580,5 319,253,399,379,5 454,252,589,379,5 491,127,570,184,5 650,426,725,586,5 655,249,725,381,5 811,243,881,373,5 818,422,879,588,5 883,239,958,376,5 894,429,965,589,5
+/data/datasets/ImageNet/JPEGImages/n06794110_440.JPEG 150,145,449,265,4
+/data/datasets/ImageNet/JPEGImages/n03891251_528.JPEG 144,426,362,491,0
+/data/datasets/OIDV4extracted/Validation/097d056ffa82fced.jpg 431,493,568,662,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_acbictmperkzesty.jpg 521,39,718,230,5
+/data/datasets/OIDV4extracted/Validation/ce8836de53d6b11e.jpg 189,0,917,767,4
+/data/datasets/OIDV4extracted/Validation/4c24b6dbd820e52b.jpg 0,728,544,1023,5 41,974,47,1012,5 58,1009,66,1023,5 61,922,73,967,5 64,986,77,1022,5 70,892,78,947,5 78,968,86,1006,5 79,872,89,927,5 84,949,91,994,5 89,849,97,904,5 96,1009,107,1023,5 99,817,115,878,5 100,912,110,973,5 112,988,118,1023,5 113,891,121,926,5 115,788,124,836,5 341,728,406,784,5 344,832,411,893,5 347,944,416,1002,5 469,733,530,789,5 469,838,538,892,5 474,949,541,1006,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_apsfkvpnomvlpyid.jpg 160,295,202,390,2 47,274,133,355,5 229,280,324,372,5 257,174,313,243,5 71,172,120,240,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bkcokimpdwgbgqay.jpg 109,33,186,182,2 228,29,276,122,5 22,26,73,122,5
+/data/datasets/OIDV4extracted/Validation/de00a1b036c4f3e5.jpg 183,557,320,705,5 394,569,486,720,5 504,569,535,731,5 545,565,582,746,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_atepttxmnusnyqug.jpg 579,0,794,328,5
+/data/datasets/ImageNet/JPEGImages/n03717622_7229.JPEG 12,12,413,280,3
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_arznzuqbxbeazopk.jpg 116,155,161,208,5
+/data/datasets/OIDV4extracted/Validation/258550a1eea28fbb.jpg 0,0,224,856,5 395,0,1023,855,5
+/data/datasets/ImageNet/JPEGImages/n06794110_6824.JPEG 12,15,478,490,4
+/data/datasets/OIDV4extracted/Validation/cd2ded9ae21c7f0e.jpg 97,0,450,461,2 792,0,1022,681,2
+/data/datasets/OIDV4extracted/Validation/a888b38ff1b569df.jpg 0,0,1023,1023,5
+/data/datasets/OIDV4extracted/Validation/1cc64f607cfa8b9e.jpg 0,304,29,354,5 0,375,30,442,5 0,248,41,277,5 5,248,27,278,5 67,378,101,443,5 68,382,107,442,5 75,257,119,285,5 75,302,106,360,5 80,313,107,361,5 87,258,108,283,5 148,388,180,444,5 152,314,182,369,5 156,315,178,363,5 157,267,185,293,5 297,282,316,307,5 299,406,312,453,5 299,408,316,450,5 301,333,315,373,5 303,333,317,375,5 304,281,320,308,5 352,288,366,309,5 983,310,1006,353,5 983,368,1007,416,5 985,311,1003,351,5 989,434,1000,476,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_arkrhaxreyobmoej.jpg 457,2,502,124,5
+/data/datasets/ImageNet/JPEGImages/n03891251_2511.JPEG 7,186,397,498,0
+/data/datasets/ImageNet/JPEGImages/n06794110_5681.JPEG 130,1,287,132,4
+/data/datasets/OIDV4extracted/Validation/5acb84ff42036ab5.jpg 181,169,311,359,5
+/data/datasets/ImageNet/JPEGImages/n03717622_5565.JPEG 28,28,476,437,3
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aanpsytlewbiyypw.jpg 299,97,408,239,5 532,107,644,252,5 410,171,515,252,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_avshcawlmpfpmcox.jpg 215,450,291,568,5 617,458,692,576,5 424,441,549,635,2
+/data/datasets/OIDV4extracted/Validation/15c7889ea09afffc.jpg 104,208,138,259,5 172,212,201,256,5 233,212,255,253,5 261,219,358,354,5 283,236,304,255,5 330,232,353,250,5 401,206,530,365,5 498,238,530,320,5 642,220,778,299,5 848,255,864,268,5 876,252,898,267,5 892,257,914,269,5 923,208,952,232,5
+/data/datasets/OIDV4extracted/Validation/e6ec25328efef10a.jpg 96,664,404,949,2 98,40,410,399,2
+/data/datasets/OIDV4extracted/Validation/faeb0db9c793e661.jpg 57,206,370,590,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bkfplxilujvokdsa.jpg 1136,1191,1191,1309,2 1391,1093,1596,1148,5 1068,1089,1320,1139,5 798,1096,994,1156,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aozzwaalnkirqvli.jpg 390,70,468,271,5 242,84,384,262,5 27,8,102,365,5 158,70,237,318,5
+/data/datasets/ImageNet/JPEGImages/n03717622_9179.JPEG 24,28,411,392,3
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bemrnvptarlxgxlh.jpg 2656,849,2852,991,5 2973,968,3136,1087,5 3234,1069,3376,1174,5 3456,1151,3572,1247,5 3502,1425,3621,1512,5 3280,1360,3422,1461,5 3009,1283,3182,1404,5 2687,1198,2893,1329,5 2713,1559,2927,1678,5 3051,1616,3221,1716,5 3322,1660,3464,1750,5 3544,1698,3662,1781,5 2305,1487,2565,1621,5 2284,1092,2537,1241,5 2266,707,2509,867,5 1783,534,2085,723,5 1781,958,2096,1128,5 1773,1401,2109,1556,5 1102,1288,1525,1469,5 1143,792,1546,996,5 1179,330,1556,539,5 413,72,901,325,5 328,581,849,826,5 232,1143,785,1360,5 2545,2096,2630,2341,2 2287,2093,2374,2374,2
+/data/datasets/OIDV4extracted/Validation/48b07fa01b3d9322.jpg 104,194,1022,565,5
+/data/datasets/OIDV4extracted/Validation/1f058e3f36ffbbde.jpg 673,0,767,761,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_auwyftdntbmbdtkl.jpg 4,2,282,204,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aslhriycxxaantso.jpg 466,28,510,797,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aldlfpqkekuniwfx.jpg 361,286,444,406,5
+/data/datasets/OIDV4extracted/Validation/22ca223e1e0a48cc.jpg 587,280,677,629,2 434,213,494,317,5 591,189,682,249,5 784,281,824,312,5 788,200,853,249,5
+/data/datasets/ImageNet/JPEGImages/n03717622_7957.JPEG 0,0,499,394,3
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ayfkygwkvnjkixap.jpg 54,194,87,312,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bgfuporkhjbejkbd.jpg 0,81,146,211,3
+/data/datasets/ImageNet/JPEGImages/n03717622_5315.JPEG 77,20,419,361,3
+/data/datasets/OIDV4extracted/Validation/8939d97ebd793dd2.jpg 72,219,113,350,5 76,358,110,505,5
+/data/datasets/ImageNet/JPEGImages/n03891251_5511.JPEG 82,98,383,308,0
+/data/datasets/OIDV4extracted/Validation/cc0626b08c279b2e.jpg 177,98,847,573,4
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_asxktxlteqqenfrp.jpg 292,327,375,368,0
+/data/datasets/OIDV4extracted/Validation/ea9d7635204c1dc3.jpg 450,340,590,667,2 590,343,727,662,2
+/data/datasets/ImageNet/JPEGImages/n03717622_1279.JPEG 61,20,409,338,3
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aqnswuooyaokftnw.jpg 83,76,142,134,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_asmbbawzmmnaccfe.jpg 81,1,292,255,5
+/data/datasets/ImageNet/JPEGImages/n03891251_3541.JPEG 43,289,284,426,0
+/data/datasets/ImageNet/JPEGImages/n06794110_1002.JPEG 58,122,344,278,4
+/data/datasets/ImageNet/JPEGImages/n03891251_612.JPEG 136,83,438,276,0
+/data/datasets/OIDV4extracted/Validation/4f6f8ef2f63c5e57.jpg 76,331,241,471,5 417,331,647,533,5 927,407,961,449,5 983,405,1022,444,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aafpallawmjtlxbq.jpg 225,3,1116,731,5
+/data/datasets/OIDV4extracted/Validation/d754114af3532e5b.jpg 91,453,108,509,5 162,323,176,343,5 172,218,189,273,5 218,310,243,360,5 236,193,260,259,5 273,434,331,527,5 291,293,314,352,5 322,169,346,236,5 423,425,456,512,5 438,286,466,342,5 615,407,663,508,5 731,399,778,515,5
+/data/datasets/OIDV4extracted/Validation/2fdb9ab2787cf48a.jpg 24,73,1003,640,5
+/data/datasets/OIDV4extracted/Validation/8063d616c60b4a95.jpg 0,0,763,840,5
+/data/datasets/OIDV4extracted/Validation/4d1dfc65ed11ff55.jpg 18,649,89,666,5 355,278,488,425,5 374,285,423,419,5 386,546,439,688,5 430,288,479,414,5 519,104,609,190,5 639,453,848,662,5 641,261,844,404,5 683,455,782,509,5 685,519,790,650,5 801,454,845,509,5 807,521,852,646,5 953,291,995,322,5 958,292,993,323,5 983,571,1023,685,5
+/data/datasets/OIDV4extracted/Validation/89fb4f3b001d677e.jpg 0,0,1023,765,2 87,46,956,672,5
+/data/datasets/ImageNet/JPEGImages/n06794110_6919.JPEG 120,65,398,307,4
+/data/datasets/ImageNet/JPEGImages/n03717622_4714.JPEG 114,19,403,309,3
+/data/datasets/OIDV4extracted/Validation/cb17db7f138e6c6a.jpg 107,46,650,984,5
+/data/datasets/OIDV4extracted/Validation/480aaba6e5555261.jpg 318,0,767,346,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_asgxfpillbilpnpw.jpg 27,164,75,282,2
+/data/datasets/OIDV4extracted/Validation/ac6a3cb33029d895.jpg 139,4,247,129,5 462,9,511,131,5 509,298,609,395,5 678,0,1023,319,5 836,245,907,327,5
+/data/datasets/OIDV4extracted/Validation/9bea36757c0e50c4.jpg 522,55,767,583,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aaqlryzuiwjthbbd.jpg 105,20,149,108,5
+/data/datasets/OIDV4extracted/Validation/99c857cf01fc9f65.jpg 531,17,660,222,5
+/data/datasets/OIDV4extracted/Validation/c1a057a687712874.jpg 489,203,573,257,5 585,206,817,252,5 826,209,878,253,5
+/data/datasets/OIDV4extracted/Validation/2a2af82043d0c6e1.jpg 63,0,683,900,2
+/data/datasets/OIDV4extracted/Validation/a23e5cf055323737.jpg 310,51,777,658,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aopxuoxzcpguavom.jpg 1243,890,1276,1029,5 905,1111,951,1206,5 1068,1152,1105,1263,5
+/data/datasets/OIDV4extracted/Validation/b09b4fe077be4205.jpg 85,234,922,301,5
+/data/datasets/OIDV4extracted/Validation/aa78dede5fd22352.jpg 395,239,478,364,5 403,467,473,590,5 473,136,584,168,5 578,242,657,364,5 588,467,658,590,5
+/data/datasets/OIDV4extracted/Validation/1e34f92f5ea27d83.jpg 168,339,265,436,5 183,195,275,283,5 192,337,246,432,5 207,195,255,284,5 301,338,392,435,5 307,197,398,284,5 320,340,376,425,5 332,196,378,282,5 457,197,538,284,5 476,200,521,285,5 594,198,682,281,5 599,337,694,435,5 616,200,662,282,5 623,339,675,428,5 713,198,803,282,5 724,339,818,432,5 733,196,784,282,5 744,337,805,434,5
+/data/datasets/ImageNet/JPEGImages/n03717622_9441.JPEG 0,0,498,498,3
+/data/datasets/OIDV4extracted/Validation/2e536a1df22c4643.jpg 274,479,330,590,5 275,308,334,417,5 377,314,437,421,5 381,476,438,588,5 382,166,451,246,5 393,200,435,243,5 497,310,552,417,5 614,309,673,419,5 618,475,675,591,5 628,165,699,250,5 645,195,686,244,5 729,306,791,416,5 735,478,792,589,5
+/data/datasets/OIDV4extracted/Validation/5a4201c24cd6374b.jpg 131,345,268,487,5 357,347,423,493,5 754,344,904,501,5
+/data/datasets/ImageNet/JPEGImages/n06794110_3400.JPEG 73,110,485,222,4
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ajurijdhdetpfuro.jpg 2,304,216,501,5
+/data/datasets/ImageNet/JPEGImages/n06794110_3523.JPEG 47,168,140,201,4 143,123,280,166,4
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aigzatlfxwpsupvm.jpg 99,49,147,157,5 15,30,90,167,5
+/data/datasets/OIDV4extracted/Validation/2305e785c4e0bf51.jpg 189,0,458,487,5
+/data/datasets/ImageNet/JPEGImages/n03717622_5532.JPEG 166,316,301,372,3
+/data/datasets/OIDV4extracted/Validation/2101b3f4d9d0b27d.jpg 0,49,1021,250,5
+/data/datasets/ImageNet/JPEGImages/n06794110_3644.JPEG 18,8,382,498,4
+/data/datasets/OIDV4extracted/Validation/bf35b051c4532df9.jpg 13,187,904,452,5
+/data/datasets/ImageNet/JPEGImages/n06794110_5657.JPEG 84,74,394,305,4
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ajcxjxnfcyiajqdy.jpg 57,18,107,136,5
+/data/datasets/OIDV4extracted/Validation/acec2fdf87b35371.jpg 0,263,12,300,5 42,261,84,295,5 111,350,176,377,5 209,347,252,375,5 213,255,243,298,5 325,268,343,315,5 380,288,392,330,5 461,490,545,561,5 509,165,555,243,5 546,282,553,330,5 566,490,689,563,5 622,156,668,241,5 623,278,669,362,5 640,62,681,128,5 768,150,815,237,5 770,279,813,319,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aindcaheaybfwqjq.jpg 567,265,632,372,5 336,250,418,419,5
+/data/datasets/ImageNet/JPEGImages/n06794110_4368.JPEG 67,186,445,253,4 224,57,284,190,4
+/data/datasets/OIDV4extracted/Validation/d6ee61462973e10d.jpg 208,0,554,664,2 286,128,472,496,5
+/data/datasets/OIDV4extracted/Validation/d394956a5191176c.jpg 12,125,762,1009,5
+/data/datasets/OIDV4extracted/Validation/7f4c604e89948d40.jpg 601,309,650,737,2
+/data/datasets/ImageNet/JPEGImages/n03891251_569.JPEG 29,109,486,308,0
+/data/datasets/OIDV4extracted/Validation/253e9529bda382c2.jpg 986,339,1014,380,5
+/data/datasets/OIDV4extracted/Validation/2949f8643beefb8a.jpg 0,90,9,132,5 0,173,17,211,5 29,79,64,127,5 35,166,71,208,5 74,232,226,327,5 94,69,127,108,5 149,57,176,90,5 227,62,402,162,5 240,228,471,349,5 516,218,844,381,5 663,53,762,122,5 849,190,978,267,5 858,22,983,110,5 966,279,1023,324,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aakejyolaigkvisc.jpg 317,351,1091,829,5
+/data/datasets/OIDV4extracted/Validation/269191f83be6c348.jpg 680,260,742,384,5 682,67,738,158,5 878,96,910,136,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_abboidnknokrijse.jpg 120,4,377,433,5
+/data/datasets/ImageNet/JPEGImages/n06794110_4054.JPEG 179,128,356,185,4
+/data/datasets/ImageNet/JPEGImages/n03891251_2037.JPEG 200,193,418,289,0 135,108,190,142,0
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aintouwjklkzdohy.jpg 0,0,117,638,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_boofvsqslrglirlm.jpg 895,1,969,364,2 645,0,824,331,2
+/data/datasets/OIDV4extracted/Validation/d0ce07acbf276590.jpg 146,67,533,972,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aicyxgrjdvyrslnb.jpg 814,151,847,223,5 877,144,914,218,5
+/data/datasets/ImageNet/JPEGImages/n03891251_1213.JPEG 42,57,356,375,0
+/data/datasets/OIDV4extracted/Validation/cb1abb0fc94b341a.jpg 0,0,411,193,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ayfndfytafrkpeju.jpg 47,45,89,129,2
+/data/datasets/OIDV4extracted/Validation/53256f9aebf4db64.jpg 0,194,319,537,5 0,0,320,147,5 0,620,382,767,5 502,0,855,170,5 510,309,641,496,5 514,479,640,595,5 791,380,863,528,5 799,535,872,594,5 901,0,1023,223,5 927,408,1023,629,5
+/data/datasets/OIDV4extracted/Validation/346f30dc368f535c.jpg 122,0,715,752,5
+/data/datasets/OIDV4extracted/Validation/57272c481c83d3a2.jpg 937,354,965,460,5
+/data/datasets/ImageNet/JPEGImages/n03717622_10171.JPEG 66,36,393,346,3
+/data/datasets/OIDV4extracted/Validation/56c2867cd3bf62c6.jpg 93,88,382,299,5 346,200,518,303,5 740,0,1022,223,5
+/data/datasets/ImageNet/JPEGImages/n03717622_9854.JPEG 93,46,398,336,3
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_anzmtragjdxjsgit.jpg 0,137,48,1195,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_adeipmgjiwubxylp.jpg 440,315,479,352,5 227,67,305,129,5 301,67,396,136,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_dejcrxukfahdnano.jpg 180,188,276,245,5 563,197,602,307,5 192,293,265,346,5
+/data/datasets/ImageNet/JPEGImages/n06794110_1364.JPEG 232,68,381,120,4
+/data/datasets/OIDV4extracted/Validation/aa1188b466a9ad32.jpg 545,649,762,1023,5 567,124,767,588,5
+/data/datasets/ImageNet/JPEGImages/n06794110_3611.JPEG 6,225,279,293,4
+/data/datasets/ImageNet/JPEGImages/n06794110_2083.JPEG 202,55,317,365,4
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bqukjmopupiyseqe.jpg 43,0,275,90,5
+/data/datasets/ImageNet/JPEGImages/n03891251_1870.JPEG 110,244,264,328,0
+/data/datasets/OIDV4extracted/Validation/618ba0d0e6ddb4ce.jpg 265,420,353,573,5
+/data/datasets/OIDV4extracted/Validation/796cd93ac50fee9d.jpg 323,478,355,520,5 329,479,354,523,5 349,345,403,405,5 559,478,645,548,5 572,344,652,403,5 739,481,823,547,5 751,352,801,414,5
+/data/datasets/OIDV4extracted/Validation/9c6eb3ecb32f50b6.jpg 0,38,1021,325,5
+/data/datasets/OIDV4extracted/Validation/b4f6614c7a1794b5.jpg 434,323,622,622,2
+/data/datasets/OIDV4extracted/Validation/7c7c0e2bb9ea0927.jpg 0,0,74,91,5 616,605,757,682,5
+/data/datasets/OIDV4extracted/Validation/45461d8e9c8f8d39.jpg 267,368,329,766,2
+/data/datasets/ImageNet/JPEGImages/n06794110_1106.JPEG 95,13,454,254,4 171,97,423,317,4
+/data/datasets/OIDV4extracted/Validation/8d64efb831c496ed.jpg 312,352,448,556,2 446,354,575,556,2 779,310,882,546,2 0,0,21,113,5 0,267,45,454,5
+/data/datasets/OIDV4extracted/Validation/d028a66a66300461.jpg 0,37,137,285,5
+/data/datasets/ImageNet/JPEGImages/n03717622_7079.JPEG 0,0,499,350,3
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aqehmjhgkezofbkf.jpg 174,286,209,373,2
+/data/datasets/OIDV4extracted/Validation/115ef722923602a8.jpg 0,405,40,579,5 0,235,42,352,5 0,716,79,982,5 0,124,754,979,5 97,364,233,611,5 107,705,195,939,5 142,207,216,327,5 301,341,451,591,5 312,700,439,969,5 330,168,421,302,5 526,303,691,573,5 542,126,650,262,5 574,684,748,989,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ajbyvvpivgihijxl.jpg 655,3,1535,558,5
+/data/datasets/OIDV4extracted/Validation/2cf07a7afa4af69b.jpg 0,0,245,612,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_afmvzrmsfrfwfbph.jpg 133,27,206,88,5 0,28,74,103,5
+/data/datasets/OIDV4extracted/Validation/f8abba74ae677e3a.jpg 27,24,948,840,4
+/data/datasets/ImageNet/JPEGImages/n06794110_2883.JPEG 315,101,371,237,4 266,59,431,101,4 306,14,399,64,4
+/data/datasets/OIDV4extracted/Validation/b965c3310317652e.jpg 163,48,907,657,5
+/data/datasets/OIDV4extracted/Validation/2b48a7027c1a7867.jpg 609,0,751,354,5
+/data/datasets/OIDV4extracted/Validation/0433fe487a1775f1.jpg 6,108,767,1000,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bloejrxexqkdyssv.jpg 247,5,1035,638,5 1270,0,1596,655,5
+/data/datasets/OIDV4extracted/Validation/46d92c63bac4fbb3.jpg 90,488,210,742,5 143,217,215,338,5 358,97,418,188,5 409,487,467,642,5 416,268,463,376,5 438,106,497,192,5 489,273,530,377,5 497,489,554,638,5 519,111,571,199,5 578,486,669,704,5 704,472,779,631,5 805,454,894,627,5 813,463,876,629,5
+/data/datasets/ImageNet/JPEGImages/n03891251_2299.JPEG 69,1,498,461,0
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_abmlchngbzrrapkw.jpg 375,181,420,238,5 380,273,429,338,5 384,380,436,455,5 244,247,299,319,5 241,363,296,445,5 252,150,299,213,5 257,72,299,123,5 272,494,313,590,2
+/data/datasets/OIDV4extracted/Validation/20948f288187f51a.jpg 0,0,1000,500,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ajajqetfysksyrle.jpg 279,102,404,188,0/data/datasets/OIDV4extracted/Validation/2b01260094251529.jpg 37,0,988,225,5 40,0,194,182,5 856,0,979,175,5
+/data/datasets/ImageNet/JPEGImages/n03891251_1673.JPEG 10,58,314,443,0
+/data/datasets/ImageNet/JPEGImages/n03891251_4312.JPEG 86,164,419,332,0
+/data/datasets/OIDV4extracted/Validation/7358ad1e73b07ed0.jpg 0,0,529,681,5
+/data/datasets/OIDV4extracted/Validation/fea234629eea3827.jpg 308,0,1021,359,5
+/data/datasets/OIDV4extracted/Validation/37d9ec50f9473427.jpg 142,0,256,1023,2
+/data/datasets/OIDV4extracted/Validation/c95e0fd9c23b72ac.jpg 806,400,962,723,5 988,603,1011,635,5 993,662,1008,696,5 1002,713,1016,723,5
+/data/datasets/OIDV4extracted/Validation/22d454d3b344c67a.jpg 0,791,15,809,5 0,762,18,784,5 0,740,19,757,5 0,716,28,732,5 0,691,32,716,5 41,768,82,785,5 47,742,85,768,5 53,818,75,840,5 54,723,90,742,5 55,700,91,723,5 61,794,82,814,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_atfmixowukjidiqp.jpg 156,12,300,168,2 442,24,489,75,5
+/data/datasets/OIDV4extracted/Validation/15932ce01f712852.jpg 578,138,922,412,5
+/data/datasets/OIDV4extracted/Validation/0ba9d2cc31b93d70.jpg 118,252,294,437,5 141,0,275,92,5 361,257,659,430,5 453,0,570,83,5 743,0,852,67,5 989,270,1023,476,5 997,0,1023,143,5
+/data/datasets/ImageNet/JPEGImages/n03717622_8709.JPEG 75,48,420,374,3
+/data/datasets/OIDV4extracted/Validation/598ce21cc779ff81.jpg 757,0,921,148,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_avwsjtmaxgvppiey.jpg 76,1,161,67,5 0,0,74,68,5
+/data/datasets/OIDV4extracted/Validation/d7de52702ab35e30.jpg 833,280,971,523,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_agipeqgwumqjhozt.jpg 230,101,297,264,2 40,29,103,101,5 2,14,36,88,5
+/data/datasets/OIDV4extracted/Validation/38c13b7a7f5ff99b.jpg 188,136,724,397,5
+/data/datasets/ImageNet/JPEGImages/n03717622_8495.JPEG 8,13,248,222,3 252,258,491,485,3 17,265,242,475,3 255,16,492,242,3
+/data/datasets/OIDV4extracted/Validation/ff34bd4af5e3f7c4.jpg 146,686,175,743,4 223,618,357,815,4 589,730,613,769,4
+/data/datasets/ImageNet/JPEGImages/n03891251_2242.JPEG 1,136,330,391,0
+/data/datasets/OIDV4extracted/Validation/d285ce538e26da12.jpg 0,233,68,279,5
+/data/datasets/ImageNet/JPEGImages/n03717622_9852.JPEG 0,13,373,498,3
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ahspylgoovwmwvgk.jpg 261,139,624,1402,5
+/data/datasets/ImageNet/JPEGImages/n03891251_680.JPEG 254,187,479,303,0
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bbdrfgasootvkdfs.jpg 1111,56,1226,369,2
+/data/datasets/ImageNet/JPEGImages/n03891251_47.JPEG 338,107,476,274,0 0,76,181,310,0
+/data/datasets/OIDV4extracted/Validation/aef336051fbaec35.jpg 420,127,507,820,2
+/data/datasets/ImageNet/JPEGImages/n06794110_4009.JPEG 126,120,410,241,4 176,9,370,139,4
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_annvgtlmuwwedmqd.jpg 227,191,327,410,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aejvqzvtonxptams.jpg 10,42,72,175,5 92,51,139,166,5 148,50,184,209,2 465,86,497,139,5
+/data/datasets/OIDV4extracted/Validation/946ae6cd596aa4b1.jpg 332,245,460,479,5
+/data/datasets/ImageNet/JPEGImages/n03717622_9898.JPEG 79,31,396,311,3
+/data/datasets/OIDV4extracted/Validation/cce5c3b34c5c735e.jpg 263,28,510,1023,2
+/data/datasets/OIDV4extracted/Validation/49e21959b5c034ad.jpg 0,253,38,309,5 0,255,48,309,5 0,323,191,493,5 0,0,701,503,5 30,0,124,148,5 31,0,109,141,5 181,275,267,397,5 192,29,263,167,5 194,278,261,392,5 197,36,271,166,5 320,10,370,138,5
+/data/datasets/ImageNet/JPEGImages/n03891251_2064.JPEG 4,64,358,477,0
+/data/datasets/OIDV4extracted/Validation/eada6632f433eebc.jpg 332,433,395,595,2
+/data/datasets/OIDV4extracted/Validation/0df49be355be1f96.jpg 102,567,204,689,5 192,591,219,693,5 516,617,566,734,5 574,583,650,739,5 657,590,680,693,5 663,596,680,677,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bzcbibeuekhwqydh.jpg 1142,2,1535,603,5 5,20,694,500,5
+/data/datasets/OIDV4extracted/Validation/42b7654dda528c30.jpg 0,0,1023,766,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bzkjxmepmeowjqgx.jpg 63,65,191,222,5
+/data/datasets/ImageNet/JPEGImages/n03891251_1263.JPEG 182,204,336,315,0
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_azvxwxzbkknkggng.jpg 0,248,55,327,0 213,254,288,322,0
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_abvctdwfbgsumtid.jpg 470,150,694,437,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aamrfepkhweyewue.jpg 244,57,378,370,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aqxucoqlejhkiymu.jpg 64,0,114,142,2
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_alqahuxbyvruccni.jpg 393,128,512,343,2
+/data/datasets/OIDV4extracted/Validation/292c1ae06208c267.jpg 832,205,894,315,2 554,130,940,350,5
+/data/datasets/ImageNet/JPEGImages/n03717622_5459.JPEG 0,0,498,498,3
+/data/datasets/ImageNet/JPEGImages/n03717622_9487.JPEG 10,21,478,478,3
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_apeigtvgczyjmtta.jpg 157,310,190,395,5 233,316,278,399,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aqarpfdajocdauap.jpg 472,2,519,130,5 0,40,46,322,2
+/data/datasets/OIDV4extracted/Validation/cf98919686aa9981.jpg 7,0,1022,766,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_bhuegzigosgpmhrf.jpg 1461,2,1598,168,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_aaocevowsirlluji.jpg 61,51,111,90,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_adldglebrfdkcxwu.jpg 217,0,256,255,2
+/data/datasets/OIDV4extracted/Validation/35fd8d54e418baef.jpg 461,315,476,346,5 493,310,509,343,5 540,305,565,339,5 543,261,559,282,5 566,299,588,332,5
+/data/datasets/OIDV4extracted/Validation/c3c041e2320c69c9.jpg 422,0,598,186,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_arwptwzwapaazdtx.jpg 54,72,235,251,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_andxdibfwbzavwnt.jpg 34,2,100,164,5
+/data/datasets/OIDV4extracted/Validation/920cdf2d9f5a8b82.jpg 236,252,380,323,5 883,218,916,240,5 977,187,1012,242,5
+/data/datasets/ImageNet/JPEGImages/n03891251_7116.JPEG 120,213,354,338,0
