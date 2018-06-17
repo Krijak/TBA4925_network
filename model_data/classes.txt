@@ -1,0 +1,6 @@
+bench
+crosswalk
+door
+manhole cover
+traffic sign
+window
