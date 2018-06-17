@@ -4,7 +4,7 @@ Retrain the YOLO model for your own dataset.
 
 import numpy as np
 import keras.backend as K
-from keras.layers import Input, Lambda
+from keras.layers import Input, Lambda, merge, concatenate
 from keras.models import Model
 from keras.utils import multi_gpu_model
 from keras.optimizers import Adam
