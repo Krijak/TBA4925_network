@@ -212,6 +212,7 @@ def make_parallel(model, gpu_list):
     # merge outputs on CPU
     with tf.device('/cpu:0'):
         merged = []
+        print('outputs')
         print(outputs)
         for outputs in outputs_all:
             merged.append(concatenate(outputs, axis=0))
