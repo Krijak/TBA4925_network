@@ -57,8 +57,8 @@ def _main():
     if True:
         gpus = get_number_of_gpus()
         print('Found {} gpus'.format(gpus))
-        #if gpus > 1:
-            #model = make_parallel(model, [0,1])
+        if gpus > 1:
+            model = make_parallel(model, [0,1])
             #model = ModelMGPU(model, gpus)
 
         model.compile(optimizer=Adam(lr=1e-3), loss={
@@ -219,7 +219,7 @@ def make_parallel(model, gpu_list):
         merged = []
         print(outputs_all)
         for outputs in outputs_all:
-            #if outputs
+            print(outputs)
             merged.append(concatenate(outputs, axis=0))
             
         return Model(inputs=model.inputs, outputs=merged)
