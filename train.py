@@ -144,8 +144,8 @@ def create_model(input_shape, anchors, num_classes, load_pretrained=True, freeze
     model_loss = Lambda(yolo_loss, output_shape=(1,), name='yolo_loss',
         arguments={'anchors': anchors, 'num_classes': num_classes, 'ignore_thresh': 0.5})(
         [*model_body.output, *y_true])
-    #model = Model([model_body.input, *y_true], model_loss)
-    model = Model([model_body.input, *y_true], )
+    model = Model([model_body.input, *y_true], model_loss)
+    #model = Model([model_body.input, *y_true], )
     #print('Training with two gpus')
     #with tf.device("/cpu:0"):
     #   model = ...
