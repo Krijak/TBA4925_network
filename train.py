@@ -141,6 +141,7 @@ def create_model(input_shape, anchors, num_classes, load_pretrained=True, freeze
     model_loss = Lambda(yolo_loss, output_shape=(1,), name='yolo_loss',
         arguments={'anchors': anchors, 'num_classes': num_classes, 'ignore_thresh': 0.5})(
         [*model_body.output, *y_true])
+    print(model_loss._keras_shape)
     model = Model([model_body.input, *y_true], model_loss)
     return model
 
@@ -213,7 +214,7 @@ def make_parallel(model, gpu_list):
     # merge outputs on CPU
     with tf.device('/cpu:0'):
         merged = []
-        print(outputs)
+        print(outputs_all)
         for outputs in outputs_all:
             #if outputs
             merged.append(concatenate(outputs, axis=0))
