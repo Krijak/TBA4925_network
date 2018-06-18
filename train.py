@@ -215,7 +215,7 @@ def make_parallel(model, gpu_list):
         merged = []
         print(outputs)
         for outputs in outputs_all:
-            if outputs
+            #if outputs
             merged.append(concatenate(outputs, axis=0))
             
         return Model(inputs=model.inputs, outputs=merged)
