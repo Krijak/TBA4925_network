@@ -144,6 +144,7 @@ def create_model(input_shape, anchors, num_classes, load_pretrained=True, freeze
     print(model_loss._keras_shape)
     print([model_body.input, *y_true])
     model = Model([model_body.input, *y_true], model_loss)
+    print(model.inputs._keras_shape)
     return model
 
 def create_tiny_model(input_shape, anchors, num_classes, load_pretrained=True, freeze_body=2,
