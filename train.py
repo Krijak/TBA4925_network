@@ -66,7 +66,10 @@ def _main():
             # use custom yolo_loss Lambda layer.
             #'yolo_loss': lambda y_true, y_pred: y_pred})
 
-        model.compile(optimizer=Adam(lr=1e-3), loss=categorical_crossentropy(y_true, y_pred))
+        model.compile(optimizer=Adam(lr=1e-3), losses={'concatenate_1': lambda y_true, y_pred: y_pred, 'concatenate_2': lambda y_true, y_pred: y_pred})
+
+
+        #model.compile(optimizer=Adam(lr=1e-3), loss=categorical_crossentropy(y_true, y_pred))
         batch_size = 32
         print('Train on {} samples, val on {} samples, with batch size {}.'.format(num_train, num_val, batch_size))
         model.fit_generator(data_generator_wrapper(lines[:num_train], batch_size, input_shape, anchors, num_classes),
@@ -142,7 +145,7 @@ def create_model(input_shape, anchors, num_classes, load_pretrained=True, freeze
         arguments={'anchors': anchors, 'num_classes': num_classes, 'ignore_thresh': 0.5})(
         [*model_body.output, *y_true])
     #model = Model([model_body.input, *y_true], model_loss)
-    model = Model(model_body.input, *y_true)
+    model = Model([model_body.input, *y_true], )
     #print('Training with two gpus')
     #with tf.device("/cpu:0"):
     #   model = ...
