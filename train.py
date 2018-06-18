@@ -9,6 +9,7 @@ from keras.layers import Input, Lambda, merge, concatenate
 from keras.models import Model
 from keras.utils import multi_gpu_model
 from keras.optimizers import Adam
+from keras_utils.multigpu import get_number_of_gpus, ModelMGPU
 
 from keras.callbacks import TensorBoard, ModelCheckpoint, ReduceLROnPlateau, EarlyStopping
 
