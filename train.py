@@ -63,7 +63,7 @@ def _main():
 
         #model.compile(optimizer=Adam(lr=1e-3), loss={
             # use custom yolo_loss Lambda layer.
-            'yolo_loss': lambda y_true, y_pred: y_pred})
+            #'yolo_loss': lambda y_true, y_pred: y_pred})
 
         model.compile(optimizer=Adam(lr=1e-3), loss=categorical_crossentropy(y_true, y_pred))
         batch_size = 32
