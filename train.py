@@ -179,6 +179,7 @@ def create_tiny_model(input_shape, anchors, num_classes, load_pretrained=True, f
     return model
 
 def make_parallel(model, gpu_list):
+    print('MAKE PARALLEL')
     def get_slice(data, idx, parts):
         shape = tf.shape(data)
         size = tf.concat([ shape[:1] // parts, shape[1:] ], axis=0)
