@@ -10,6 +10,7 @@ from keras.models import Model
 from keras.utils import multi_gpu_model
 from keras.optimizers import Adam
 from keras_utils.multigpu import get_number_of_gpus, ModelMGPU
+import keras.losses
 
 from keras.callbacks import TensorBoard, ModelCheckpoint, ReduceLROnPlateau, EarlyStopping
 
@@ -140,7 +141,8 @@ def create_model(input_shape, anchors, num_classes, load_pretrained=True, freeze
     model_loss = Lambda(yolo_loss, output_shape=(1,), name='yolo_loss',
         arguments={'anchors': anchors, 'num_classes': num_classes, 'ignore_thresh': 0.5})(
         [*model_body.output, *y_true])
-    model = Model([model_body.input, *y_true], model_loss)
+    #model = Model([model_body.input, *y_true], model_loss)
+    model = Model([model_body.input, *y_true], categorical_crossentropy)
     #print('Training with two gpus')
     #with tf.device("/cpu:0"):
     #   model = ...
