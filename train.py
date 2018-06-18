@@ -62,11 +62,11 @@ def _main():
         if gpus > 1:
             model = ModelMGPU(model, gpus)
 
-        #model.compile(optimizer=Adam(lr=1e-3), loss={
+        model.compile(optimizer=Adam(lr=1e-3), loss={
             # use custom yolo_loss Lambda layer.
-            #'yolo_loss': lambda y_true, y_pred: y_pred})
+            'yolo_loss': lambda y_true, y_pred: y_pred})
 
-        model.compile(optimizer=Adam(lr=1e-3), losses={'concatenate_1': lambda y_true, y_pred: y_pred, 'concatenate_2': lambda y_true, y_pred: y_pred})
+        #model.compile(optimizer=Adam(lr=1e-3), losses={'concatenate_1': lambda y_true, y_pred: y_pred, 'concatenate_2': lambda y_true, y_pred: y_pred})
 
 
         #model.compile(optimizer=Adam(lr=1e-3), loss=categorical_crossentropy(y_true, y_pred))
@@ -145,11 +145,7 @@ def create_model(input_shape, anchors, num_classes, load_pretrained=True, freeze
         arguments={'anchors': anchors, 'num_classes': num_classes, 'ignore_thresh': 0.5})(
         [*model_body.output, *y_true])
     model = Model([model_body.input, *y_true], model_loss)
-    #model = Model([model_body.input, *y_true], )
-    #print('Training with two gpus')
-    #with tf.device("/cpu:0"):
-    #   model = ...
-    #model = multi_gpu_model(model, gpus=2)
+    
     return model
 
 def create_tiny_model(input_shape, anchors, num_classes, load_pretrained=True, freeze_body=2,
