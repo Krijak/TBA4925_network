@@ -56,6 +56,11 @@ def _main():
     # Train with frozen layers first, to get a stable loss.
     # Adjust num epochs to your dataset. This step is enough to obtain a not bad model.
     if True:
+        gpus = get_number_of_gpus()
+        print('Found {} gpus'.format(gpus))
+        if gpus > 1:
+            model = ModelMGPU(model, gpus)
+
         model.compile(optimizer=Adam(lr=1e-3), loss={
             # use custom yolo_loss Lambda layer.
             'yolo_loss': lambda y_true, y_pred: y_pred})
@@ -134,11 +139,6 @@ def create_model(input_shape, anchors, num_classes, load_pretrained=True, freeze
     model_loss = Lambda(yolo_loss, output_shape=(1,), name='yolo_loss',
         arguments={'anchors': anchors, 'num_classes': num_classes, 'ignore_thresh': 0.5})(
         [*model_body.output, *y_true])
-
-    gpus = get_number_of_gpus()
-    print('Found {} gpus'.format(gpus))
-    if gpus > 1:
-        model = ModelMGPU(model, gpus)
     model = Model([model_body.input, *y_true], model_loss)
     #print('Training with two gpus')
     #with tf.device("/cpu:0"):
