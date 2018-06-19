@@ -36,7 +36,7 @@ def _main():
     else:
         #with tf.device('/cpu:0'):
         model = create_model(input_shape, anchors, num_classes,
-            freeze_body=2, weights_path='model_data/yolo_weights.h5') # make sure you know what you freeze
+            freeze_body=2, weights_path='model_data/trained_weights_final.h5') # make sure you know what you freeze
         #model = multi_gpu_model(model, gpus=2)
 
     logging = TensorBoard(log_dir=log_dir)
