@@ -564,7 +564,8 @@
 /data/datasets/OIDV4extracted/Validation/bde3f4a80c695db8.jpg 0,285,50,415,5 79,286,187,413,5 204,305,233,409,5 486,252,513,315,5 845,325,901,358,5 856,392,905,421,5
 /data/datasets/OIDV4extracted/Validation/0df49be355be1f96.jpg 102,567,204,689,5 192,591,219,693,5 516,617,566,734,5 574,583,650,739,5 657,590,680,693,5 663,596,680,677,5
 /data/datasets/OIDV4extracted/Validation/920cad2819e4bb3f.jpg 19,561,39,582,5 19,518,43,540,5 22,476,45,500,5 59,561,64,581,5 64,521,68,541,5 65,482,72,504,5 302,194,605,474,5
-/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ajajqetfysksyrle.jpg 279,102,404,188,0/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ajkmsocwkrlvlstn.jpg 1022,91,1199,641,5 854,78,973,347,5
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ajajqetfysksyrle.jpg 279,102,404,188,0
+/data/datasets/SUN_pascal_extracted/JPEGImages/sun_ajkmsocwkrlvlstn.jpg 1022,91,1199,641,5 854,78,973,347,5
 /data/datasets/OIDV4extracted/Validation/95af7b10d06e233d.jpg 847,33,907,139,5 876,311,928,376,5 889,594,950,687,5 941,34,1023,137,5 967,306,1023,381,5 991,598,1023,686,5
 /data/datasets/SUN_pascal_extracted/JPEGImages/sun_apuexfnivftflwil.jpg 235,2,322,237,5 117,23,168,233,5
 /data/datasets/ImageNet/JPEGImages/n03717622_5180.JPEG 115,36,426,347,3
