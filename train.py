@@ -19,7 +19,7 @@ from yolo3.utils import get_random_data
 
 
 def _main():
-    annotation_path = 'annotations/test_train.txt'
+    annotation_path = 'annotations/final_train.txt'
     log_dir = 'logs/000/'
     classes_path = 'model_data/classes.txt'
     anchors_path = 'model_data/tiny_yolo_anchors.txt'
@@ -76,7 +76,7 @@ def _main():
                 steps_per_epoch=max(1, num_train//batch_size),
                 validation_data=data_generator_wrapper(lines[num_train:], batch_size, input_shape, anchors, num_classes),
                 validation_steps=max(1, num_val//batch_size),
-                epochs=2,
+                epochs=50,
                 initial_epoch=0,
                 callbacks=[logging, checkpoint])
         model.save_weights(log_dir + 'trained_weights_stage_1.h5')
