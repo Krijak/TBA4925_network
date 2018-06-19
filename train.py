@@ -35,7 +35,7 @@ def _main():
             freeze_body=2, weights_path='model_data/tiny_yolo_weights.h5')
     else:
         #with tf.device('/cpu:0'):
-        model = create_model(input_shape, anchors, num_classes,
+        model = create_model(input_shape, anchors, num_classes, load_pretrained=False,
             freeze_body=2, weights_path='model_data/trained_weights_final.h5') # make sure you know what you freeze
         #model = multi_gpu_model(model, gpus=2)
 
