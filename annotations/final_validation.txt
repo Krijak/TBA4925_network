@@ -309,7 +309,6 @@
 /data/datasets/OIDV4extracted/Validation/7884ca4ac4fe6e4b.jpg 28,252,139,407,5 181,127,853,629,5 897,508,1023,648,5
 /data/datasets/ImageNet/JPEGImages/n03717622_5950.JPEG 61,20,412,370,3
 /data/datasets/ImageNet/JPEGImages/n03891251_957.JPEG 40,73,338,321,0
-
 /data/datasets/OIDV4extracted/Validation/c49e5114a349e7f3.jpg 966,0,1023,677,5
 /data/datasets/OIDV4extracted/Validation/f58c1646f4c43e90.jpg 303,113,403,468,5 435,95,600,494,5 640,128,716,480,5
 /data/datasets/OIDV4extracted/Validation/c1a057a687712874.jpg 489,203,573,257,5 585,206,817,252,5 826,209,878,253,5
