@@ -59,8 +59,8 @@ def _main():
     if True:
         gpus = get_number_of_gpus()
         print('Found {} gpus'.format(gpus))
-        if gpus > 1:
-            model = ModelMGPU(model, gpus)
+        #if gpus > 1:
+            #model = ModelMGPU(model, gpus)
 
         model.compile(optimizer=Adam(lr=1e-3), loss={
             # use custom yolo_loss Lambda layer.
