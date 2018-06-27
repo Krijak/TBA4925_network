@@ -62,7 +62,7 @@ def _main():
         #if gpus > 1:
             #model = ModelMGPU(model, gpus)
 
-        model.compile(optimizer=Adam(lr=1e-3), loss={
+        model.compile(optimizer=Adam(lr=1e-4), loss={
             # use custom yolo_loss Lambda layer.
             'yolo_loss': lambda y_true, y_pred: y_pred})
 
