@@ -20,7 +20,7 @@ from yolo3.utils import get_random_data
 
 def _main():
     annotation_path = 'annotations_test_balance/3_4_bench_door_4000_final.txt'
-    log_dir = 'logs/3_4_bench_door_4000_e4/'
+    log_dir = 'logs/3_4_bench_door_4000/'
     classes_path = 'annotations_test_balance/3_4_bench_door_4000_classes.txt'
     anchors_path = 'model_data/tiny_yolo_anchors.txt'
     class_names = get_classes(classes_path)
@@ -62,7 +62,7 @@ def _main():
         #if gpus > 1:
             #model = ModelMGPU(model, gpus)
 
-        model.compile(optimizer=Adam(lr=1e-4), loss={
+        model.compile(optimizer=Adam(lr=1e-3), loss={
             # use custom yolo_loss Lambda layer.
             'yolo_loss': lambda y_true, y_pred: y_pred})
 
