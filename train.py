@@ -19,7 +19,7 @@ from yolo3.utils import get_random_data
 
 
 def _main():
-    annotation_path = 'annotations_updated/annotations/4000_train_updated.txt'
+    annotation_path = 'annotations_updated/annotations/4000_train_updated_final.txt'
     log_dir = 'logs/4000_adam_e3e4_50x2/'
     classes_path = 'annotations_updated/annotations/4000_train_updated_classes.txt'
     anchors_path = 'model_data/tiny_yolo_anchors.txt'
