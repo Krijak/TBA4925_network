@@ -20,7 +20,7 @@ from yolo3.utils import get_random_data
 
 def _main():
     annotation_path = 'annotations_updated/annotations/4000_train_updated_final.txt'
-    log_dir = 'logs/4000_adam_e3e4_50x2/'
+    log_dir = 'logs/4000_adam_e4e5_50x2/'
     classes_path = 'annotations_updated/annotations/4000_train_updated_classes.txt'
     anchors_path = 'model_data/tiny_yolo_anchors.txt'
     class_names = get_classes(classes_path)
@@ -62,7 +62,7 @@ def _main():
         #if gpus > 1:
             #model = ModelMGPU(model, gpus)
 
-        model.compile(optimizer=Adam(lr=1e-3), loss={
+        model.compile(optimizer=Adam(lr=1e-4), loss={
             # use custom yolo_loss Lambda layer.
             'yolo_loss': lambda y_true, y_pred: y_pred})
 
@@ -86,7 +86,7 @@ def _main():
     if True:
         for i in range(len(model.layers)):
             model.layers[i].trainable = True
-        model.compile(optimizer=Adam(lr=1e-4), loss={'yolo_loss': lambda y_true, y_pred: y_pred}) # recompile to apply the change
+        model.compile(optimizer=Adam(lr=1e-5), loss={'yolo_loss': lambda y_true, y_pred: y_pred}) # recompile to apply the change
         print('Unfreeze all of the layers.')
 
         batch_size = 64 # note that more GPU memory is required after unfreezing the body
